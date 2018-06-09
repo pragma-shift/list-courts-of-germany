@@ -1,10 +1,12 @@
 # list-courts-of-germany
 
-Complete List of court names in Germany of
+List of court names in Germany of the following types, sorted by spatial context (states/"Bundesländer") and level:
 * constitutional law courts ("Verfassungsgerichte")
 * ordinary courts ("Ordentliche Gerichte") 
 * and administrative law courts ("Verwaltungsgerichte")
 
 This list was generated during a project for the [Republikanischer Anwältinnen- und Anwälteverein](https://www.rav.de)
 
-Contributions, corrections are welcome!
+We cannot guarantee the correctness or completeness of this list! Courts may renamed or change otherwise.
+
+Contributions, updates, corrections are welcome!
