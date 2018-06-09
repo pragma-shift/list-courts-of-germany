@@ -1,0 +1,1164 @@
+[
+{"Name":"Europäischer Gerichtshof für Menschenrechte","Abbrevation":"EGMR","Type":"Verfassungsgerichtsbarkeit","Level":"Europäisches Gericht","Context":"EU"}
+,
+{"Name":"Bundesverfassungsgericht","Abbrevation":"BVerfG","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht des Bundes","Context":"Bund"},
+{"Name":"Verfassungsgerichtshof für das Land Baden-Württemberg","Abbrevation":"VfGH Baden-Württemberg","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Bayerischer Verfassungsgerichtshof","Abbrevation":"VfGH Bayern","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Bayern"},
+{"Name":"Verfassungsgerichtshof des Landes Berlin","Abbrevation":"VfGH Berlin","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Berlin"},
+{"Name":"Verfassungsgericht des Landes Brandenburg","Abbrevation":"VerfG Brandenburg","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Brandenburg"},
+{"Name":"Staatsgerichtshof der Freien Hansestadt Bremen","Abbrevation":"StGH Bremen","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Bremen"},
+{"Name":"Hamburgisches Verfassungsgericht","Abbrevation":"VerfG Hamburg","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Hamburg"},
+{"Name":"Staatsgerichtshof des Landes Hessen","Abbrevation":"StGH Hessen","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Hessen"},
+{"Name":"Landesverfassungsgericht Mecklenburg-Vorpommern","Abbrevation":"LVerfG Mecklenburg-Vorpommern","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Niedersächsischer Staatsgerichtshof","Abbrevation":"StGH Niedersachsen","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Verfassungsgerichtshof für das Land Nordrhein-Westfalen","Abbrevation":"VfGH NRW","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Verfassungsgerichtshof Rheinland-Pfalz","Abbrevation":"VfGH Rheinland-Pfalz","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Verfassungsgerichtshof des Saarlandes","Abbrevation":"VfGH Saarland","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Saarland"},
+{"Name":"Verfassungsgerichtshof des Freistaates Sachsen","Abbrevation":"VfGH Sachsen","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Sachsen"},
+{"Name":"Landesverfassungsgericht Sachsen-Anhalt","Abbrevation":"LverfG Sachsen-Anhalt","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Schleswig-Holsteinisches Landesverfassungsgericht","Abbrevation":"VerfG Schleswig-Holstein","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Schleswig-Holstein"},
+{"Name":"Thüringer Verfassungsgerichtshof","Abbrevation":"VfGH Thüringen","Type":"Verfassungsgerichtsbarkeit","Level":"Verfassungsgericht","Context":"Thüringen"}
+,
+{"Name":"Bundesgerichtshof","Abbrevation":"BGH","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberster Gerichtshof des Bundes","Context":"Bund"},
+{"Name":"Oberlandesgericht Karlsruhe","Abbrevation":"OLG Karlsruhe","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Baden-Baden","Abbrevation":"LG Baden-Baden","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Achern","Abbrevation":"AG Achern","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Baden-Baden","Abbrevation":"AG Baden-Baden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bühl","Abbrevation":"AG Bühl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Gernsbach","Abbrevation":"AG Gernsbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Rastatt","Abbrevation":"AG Rastatt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Freiburg","Abbrevation":"LG Freiburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Breisach","Abbrevation":"AG Breisach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Emmendingen","Abbrevation":"AG Emmendingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ettenheim","Abbrevation":"AG Ettenheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Freiburg im Breisgau","Abbrevation":"AG Freiburg im Breisgau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Kenzingen","Abbrevation":"AG Kenzingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Lörrach","Abbrevation":"AG Lörrach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Müllheim (Baden)","Abbrevation":"AG Müllheim (Baden)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Staufen im Breisgau","Abbrevation":"AG Staufen im Breisgau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Titisee-Neustadt","Abbrevation":"AG Titisee-Neustadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Waldkirch","Abbrevation":"AG Waldkirch","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Heidelberg","Abbrevation":"LG Heidelberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Heidelberg","Abbrevation":"AG Heidelberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Sinsheim","Abbrevation":"AG Sinsheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Wiesloch","Abbrevation":"AG Wiesloch","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Karlsruhe","Abbrevation":"LG Karlsruhe","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bretten","Abbrevation":"AG Bretten","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bruchsal","Abbrevation":"AG Bruchsal","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ettlingen","Abbrevation":"AG Ettlingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Karlsruhe","Abbrevation":"AG Karlsruhe","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Karlsruhe-Durlach","Abbrevation":"AG Karlsruhe-Durlach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Maulbronn","Abbrevation":"AG Maulbronn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Pforzheim","Abbrevation":"AG Pforzheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Philippsburg","Abbrevation":"AG Philippsburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Konstanz","Abbrevation":"LG Konstanz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Donaueschingen","Abbrevation":"AG Donaueschingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Konstanz","Abbrevation":"AG Konstanz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Radolfzell","Abbrevation":"AG Radolfzell","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Singen (Hohentwiel)","Abbrevation":"AG Singen (Hohentwiel)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Stockach","Abbrevation":"AG Stockach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Überlingen","Abbrevation":"AG Überlingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Villingen-Schwenningen","Abbrevation":"AG Villingen-Schwenningen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Mannheim","Abbrevation":"LG Mannheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Mannheim","Abbrevation":"AG Mannheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Schwetzingen","Abbrevation":"AG Schwetzingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Weinheim","Abbrevation":"AG Weinheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Mosbach","Abbrevation":"LG Mosbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Adelsheim","Abbrevation":"AG Adelsheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Buchen (Odenwald)","Abbrevation":"AG Buchen (Odenwald)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Mosbach","Abbrevation":"AG Mosbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Tauberbischofsheim","Abbrevation":"AG Tauberbischofsheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Wertheim","Abbrevation":"AG Wertheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Offenburg","Abbrevation":"LG Offenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Gengenbach","Abbrevation":"AG Gengenbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Kehl","Abbrevation":"AG Kehl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Lahr","Abbrevation":"AG Lahr","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Oberkirch","Abbrevation":"AG Oberkirch","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Offenburg","Abbrevation":"AG Offenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Wolfach","Abbrevation":"AG Wolfach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Waldshut-Tiengen","Abbrevation":"LG Waldshut-Tiengen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bad Säckingen","Abbrevation":"AG Bad Säckingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht St. Blasien","Abbrevation":"AG St. Blasien","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Schönau","Abbrevation":"AG Schönau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Schopfheim","Abbrevation":"AG Schopfheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Waldshut-Tiengen","Abbrevation":"AG Waldshut-Tiengen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Oberlandesgericht Stuttgart","Abbrevation":"OLG Stuttgart","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Ellwangen/Jagst","Abbrevation":"LG Ellwangen/Jagst","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Aalen","Abbrevation":"AG Aalen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bad Mergentheim","Abbrevation":"AG Bad Mergentheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Crailsheim","Abbrevation":"AG Crailsheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ellwangen","Abbrevation":"AG Ellwangen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Heidenheim an der Brenz","Abbrevation":"AG Heidenheim an der Brenz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Langenburg","Abbrevation":"AG Langenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Neresheim","Abbrevation":"AG Neresheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Schwäbisch Gmünd","Abbrevation":"AG Schwäbisch Gmünd","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Hechingen","Abbrevation":"LG Hechingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Albstadt","Abbrevation":"AG Albstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Balingen","Abbrevation":"AG Balingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Hechingen","Abbrevation":"AG Hechingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Sigmaringen","Abbrevation":"AG Sigmaringen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Heilbronn","Abbrevation":"LG Heilbronn","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Besigheim","Abbrevation":"AG Besigheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Brackenheim","Abbrevation":"AG Brackenheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Heilbronn","Abbrevation":"AG Heilbronn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Künzelsau","Abbrevation":"AG Künzelsau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Marbach am Neckar","Abbrevation":"AG Marbach am Neckar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Öhringen","Abbrevation":"AG Öhringen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Schwäbisch Hall","Abbrevation":"AG Schwäbisch Hall","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Vaihingen an der Enz","Abbrevation":"AG Vaihingen an der Enz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Ravensburg","Abbrevation":"LG Ravensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bad Saulgau","Abbrevation":"AG Bad Saulgau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bad Waldsee","Abbrevation":"AG Bad Waldsee","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Biberach an der Riß","Abbrevation":"AG Biberach an der Riß","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Leutkirch im Allgäu","Abbrevation":"AG Leutkirch im Allgäu","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ravensburg","Abbrevation":"AG Ravensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Riedlingen","Abbrevation":"AG Riedlingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Tettnang","Abbrevation":"AG Tettnang","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Wangen im Allgäu","Abbrevation":"AG Wangen im Allgäu","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Rottweil","Abbrevation":"LG Rottweil","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Freudenstadt","Abbrevation":"AG Freudenstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Horb am Neckar","Abbrevation":"AG Horb am Neckar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Oberndorf am Neckar","Abbrevation":"AG Oberndorf am Neckar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Rottweil","Abbrevation":"AG Rottweil","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Spaichingen","Abbrevation":"AG Spaichingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Tuttlingen","Abbrevation":"AG Tuttlingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Stuttgart","Abbrevation":"LG Stuttgart","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Backnang","Abbrevation":"AG Backnang","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Böblingen","Abbrevation":"AG Böblingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Esslingen am Neckar","Abbrevation":"AG Esslingen am Neckar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Kirchheim unter Teck","Abbrevation":"AG Kirchheim unter Teck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Leonberg","Abbrevation":"AG Leonberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ludwigsburg","Abbrevation":"AG Ludwigsburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Nürtingen","Abbrevation":"AG Nürtingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Schorndorf","Abbrevation":"AG Schorndorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Stuttgart","Abbrevation":"AG Stuttgart","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Stuttgart-Bad Cannstatt","Abbrevation":"AG Stuttgart-Bad Cannstatt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Waiblingen","Abbrevation":"AG Waiblingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Tübingen","Abbrevation":"LG Tübingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Bad Urach","Abbrevation":"AG Bad Urach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Calw","Abbrevation":"AG Calw","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Münsingen","Abbrevation":"AG Münsingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Nagold","Abbrevation":"AG Nagold","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Reutlingen","Abbrevation":"AG Reutlingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Rottenburg am Neckar","Abbrevation":"AG Rottenburg am Neckar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Tübingen","Abbrevation":"AG Tübingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"","Abbrevation":"","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Landgericht Ulm","Abbrevation":"LG Ulm","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ehingen (Donau)","Abbrevation":"AG Ehingen (Donau)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Geislingen an der Steige","Abbrevation":"AG Geislingen an der Steige","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Göppingen","Abbrevation":"AG Göppingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Amtsgericht Ulm","Abbrevation":"AG Ulm","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Oberlandesgericht Bamberg","Abbrevation":"OLG Bamberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Bayern"},
+{"Name":"Landgericht Aschaffenburg","Abbrevation":"LG Aschaffenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Aschaffenburg","Abbrevation":"AG Aschaffenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Obernburg am Main","Abbrevation":"AG Obernburg am Main","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Bamberg","Abbrevation":"LG Bamberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Bamberg","Abbrevation":"AG Bamberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Forchheim","Abbrevation":"AG Forchheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Haßfurt","Abbrevation":"AG Haßfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Landgericht Bayreuth","Abbrevation":"LG Bayreuth","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Bayreuth","Abbrevation":"AG Bayreuth","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Kulmbach","Abbrevation":"AG Kulmbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Coburg","Abbrevation":"LG Coburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Coburg","Abbrevation":"AG Coburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Kronach","Abbrevation":"AG Kronach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Lichtenfels","Abbrevation":"AG Lichtenfels","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Hof/Saale","Abbrevation":"LG Hof/Saale","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Hof (Saale)","Abbrevation":"AG Hof (Saale)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Wunsiedel","Abbrevation":"AG Wunsiedel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Schweinfurt","Abbrevation":"LG Schweinfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Bad Neustadt an der Saale","Abbrevation":"AG Bad Neustadt an der Saale","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Bad Kissingen","Abbrevation":"AG Bad Kissingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Schweinfurt","Abbrevation":"AG Schweinfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Würzburg","Abbrevation":"LG Würzburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Gemünden am Main","Abbrevation":"AG Gemünden am Main","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Kitzingen","Abbrevation":"AG Kitzingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Würzburg","Abbrevation":"AG Würzburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Oberlandesgericht München","Abbrevation":"OLG München","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Bayern"}
+,
+{"Name":"Landgericht Augsburg","Abbrevation":"LG Augsburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Aichach","Abbrevation":"AG Aichach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Augsburg","Abbrevation":"AG Augsburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Dillingen an der Donau","Abbrevation":"AG Dillingen an der Donau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Landsberg am Lech","Abbrevation":"AG Landsberg am Lech","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Nördlingen","Abbrevation":"AG Nördlingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Landgericht Deggendorf","Abbrevation":"LG Deggendorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Deggendorf","Abbrevation":"AG Deggendorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Viechtach","Abbrevation":"AG Viechtach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Ingolstadt","Abbrevation":"LG Ingolstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Ingolstadt","Abbrevation":"AG Ingolstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Neuburg an der Donau","Abbrevation":"AG Neuburg an der Donau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Pfaffenhofen an der Ilm","Abbrevation":"AG Pfaffenhofen an der Ilm","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Kempten","Abbrevation":"LG Kempten","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Kaufbeuren","Abbrevation":"AG Kaufbeuren","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Kempten","Abbrevation":"AG Kempten","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Lindau (Bodensee)","Abbrevation":"AG Lindau (Bodensee)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Sonthofen","Abbrevation":"AG Sonthofen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Landshut","Abbrevation":"LG Landshut","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Eggenfelden","Abbrevation":"AG Eggenfelden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Erding","Abbrevation":"AG Erding","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Freising","Abbrevation":"AG Freising","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Landau an der Isar","Abbrevation":"AG Landau an der Isar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Landshut","Abbrevation":"AG Landshut","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Memmingen","Abbrevation":"LG Memmingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Amtsgericht Günzburg","Abbrevation":"AG AG Günzburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Memmingen","Abbrevation":"AG Memmingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Neu-Ulm","Abbrevation":"AG Neu-Ulm","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht München I","Abbrevation":"LG München I","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Amtsgericht München","Abbrevation":"AG AG München","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Landgericht München II","Abbrevation":"LG München II","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Amtsgericht Dachau","Abbrevation":"AG AG Dachau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Ebersberg","Abbrevation":"AG Ebersberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Fürstenfeldbruck","Abbrevation":"AG Fürstenfeldbruck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Garmisch-Partenkirchen","Abbrevation":"AG Garmisch-Partenkirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Miesbach","Abbrevation":"AG Miesbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Starnberg","Abbrevation":"AG Starnberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Weilheim in Oberbayern","Abbrevation":"AG Weilheim in Oberbayern","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Wolfratshausen","Abbrevation":"AG Wolfratshausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Passau","Abbrevation":"LG Passau","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Freyung","Abbrevation":"AG Freyung","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Passau","Abbrevation":"AG Passau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Traunstein","Abbrevation":"LG Traunstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Altötting","Abbrevation":"AG Altötting","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Laufen","Abbrevation":"AG Laufen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Mühldorf am Inn","Abbrevation":"AG Mühldorf am Inn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Rosenheim","Abbrevation":"AG Rosenheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Traunstein","Abbrevation":"AG Traunstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Oberlandesgericht Nürnberg","Abbrevation":"OLG Nürnberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Bayern"}
+,
+{"Name":"Landgericht Amberg","Abbrevation":"LG Amberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Amberg","Abbrevation":"AG Amberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Schwandorf","Abbrevation":"AG Schwandorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Ansbach","Abbrevation":"LG Ansbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Ansbach","Abbrevation":"AG Ansbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Weißenburg i. Bay.","Abbrevation":"AG Weißenburg i. Bay.","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Landgericht Nürnberg-Fürth","Abbrevation":"LG Nürnberg-Fürth","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Erlangen","Abbrevation":"AG Erlangen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Fürth","Abbrevation":"AG Fürth","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Hersbruck","Abbrevation":"AG Hersbruck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Neumarkt in der Oberpfalz","Abbrevation":"AG Neumarkt in der Oberpfalz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Neustadt an der Aisch","Abbrevation":"AG Neustadt an der Aisch","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Nürnberg","Abbrevation":"AG Nürnberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"}
+,
+{"Name":"Amtsgericht Schwabach","Abbrevation":"AG Schwabach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Regensburg","Abbrevation":"LG Regensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Cham","Abbrevation":"AG Cham","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Kelheim","Abbrevation":"AG Kelheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Regensburg","Abbrevation":"AG Regensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Straubing","Abbrevation":"AG Straubing","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Landgericht Weiden in der Oberpfalz","Abbrevation":"LG Weiden in der Oberpfalz","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Tirschenreuth","Abbrevation":"AG Tirschenreuth","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Amtsgericht Weiden","Abbrevation":"AG Weiden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bayern"},
+{"Name":"Kammergericht Berlin","Abbrevation":"KG Berlin","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Berlin"},
+{"Name":"Landgericht Berlin","Abbrevation":"LG  Berlin","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Charlottenburg","Abbrevation":"AG Charlottenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Köpenick","Abbrevation":"AG Köpenick","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"}
+,
+{"Name":"Amtsgericht Lichtenberg","Abbrevation":"AG Lichtenberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Mitte","Abbrevation":"AG Mitte","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Neukölln","Abbrevation":"AG Neukölln","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"}
+,
+{"Name":"Amtsgericht Pankow/Weißensee","Abbrevation":"AG Pankow/Weißensee","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"}
+,
+{"Name":"Amtsgericht Schöneberg","Abbrevation":"AG Schöneberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"}
+,
+{"Name":"Amtsgericht Spandau","Abbrevation":"AG Spandau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Tempelhof-Kreuzberg","Abbrevation":"AG Tempelhof-Kreuzberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Tiergarten","Abbrevation":"AG Tiergarten","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Amtsgericht Wedding","Abbrevation":"AG Wedding","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Berlin"},
+{"Name":"Brandenburgische Oberlandesgericht","Abbrevation":"OLG Brandenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Brandenburg"},
+{"Name":"Landgericht Cottbus","Abbrevation":"LG Cottbus","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Bad Liebenwerda","Abbrevation":"AG Bad Liebenwerda","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Cottbus","Abbrevation":"AG Cottbus","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Guben","Abbrevation":"AG Guben","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Königs Wusterhausen","Abbrevation":"AG Königs Wusterhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"}
+,
+{"Name":"Amtsgericht Lübben (Spreewald)","Abbrevation":"AG Lübben (Spreewald)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"}
+,
+{"Name":"Amtsgericht Senftenberg","Abbrevation":"AG Senftenberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Landgericht Frankfurt (Oder)","Abbrevation":"LG Frankfurt (Oder)","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Amtsgericht Bad Freienwalde (Oder)","Abbrevation":"AG AG Bad Freienwalde (Oder)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Bernau bei Berlin","Abbrevation":"AG Bernau bei Berlin","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Eberswalde","Abbrevation":"AG Eberswalde","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Eisenhüttenstadt","Abbrevation":"AG Eisenhüttenstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"}
+,
+{"Name":"Amtsgericht Frankfurt (Oder)","Abbrevation":"AG Frankfurt (Oder)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Fürstenwalde/Spree","Abbrevation":"AG Fürstenwalde/Spree","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"}
+,
+{"Name":"Amtsgericht Strausberg","Abbrevation":"AG Strausberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"","Abbrevation":"","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Landgericht Neuruppin","Abbrevation":"LG Neuruppin","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Amtsgericht Neuruppin","Abbrevation":"AG AG Neuruppin","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Oranienburg","Abbrevation":"AG Oranienburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Perleberg","Abbrevation":"AG Perleberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Prenzlau","Abbrevation":"AG Prenzlau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Schwedt/Oder","Abbrevation":"AG Schwedt/Oder","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Zehdenick","Abbrevation":"AG Zehdenick","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Landgericht Potsdam","Abbrevation":"LG Potsdam","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Brandenburg an der Havel","Abbrevation":"AG Brandenburg an der Havel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Luckenwalde","Abbrevation":"AG Luckenwalde","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Nauen","Abbrevation":"AG Nauen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Potsdam","Abbrevation":"AG Potsdam","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Rathenow","Abbrevation":"AG Rathenow","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Amtsgericht Zossen","Abbrevation":"AG Zossen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Brandenburg"},
+{"Name":"Hanseatisches Oberlandesgericht Bremen","Abbrevation":"OLG Bremen","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Bremen"},
+{"Name":"Landgericht Bremen","Abbrevation":"LG Bremen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Bremen"},
+{"Name":"Amtsgericht Bremen","Abbrevation":"AG Bremen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bremen"},
+{"Name":"Amtsgericht Bremen-Blumenthal","Abbrevation":"AB Bremen Blumenthal","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bremen"},
+{"Name":"Amtsgericht Bremerhaven","Abbrevation":"AG Bremerhaven","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Bremen"},
+{"Name":"Hanseatisches Oberlandesgericht Hamburg","Abbrevation":"OLG Hamburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Hamburg"},
+{"Name":"Landgericht Hamburg","Abbrevation":"LG Hamburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg","Abbrevation":"AG Hamburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-Altona","Abbrevation":"AG Hamburg-Altona","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-Barmbek","Abbrevation":"AG Hamburg-Barmbek","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-Bergedorf","Abbrevation":"AG Hamburg-Bergedorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-Blankenese","Abbrevation":"AG Hamburg-Blankenese","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-Harburg","Abbrevation":"AG Hamburg-Harburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-St. Georg","Abbrevation":"AG Hamburg-St. Georg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Amtsgericht Hamburg-Wandsbek","Abbrevation":"AG Hamburg-Wandsbek","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hamburg"},
+{"Name":"Oberlandesgericht Frankfurt a.M.","Abbrevation":"OLG Frankfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Hessen"},
+{"Name":"Landgericht Darmstadt","Abbrevation":"LG Darmstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Bensheim","Abbrevation":"AG Bensheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Darmstadt","Abbrevation":"AG Darmstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Dieburg","Abbrevation":"AG Dieburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Fürth","Abbrevation":"AG Fürth","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Groß-Gerau","Abbrevation":"AG Groß-Gerau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Lampertheim","Abbrevation":"AG Lampertheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Langen","Abbrevation":"AG Langen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Michelstadt","Abbrevation":"AG Michelstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Offenbach am Main","Abbrevation":"AG Offenbach am Main","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Rüsselsheim","Abbrevation":"AG Rüsselsheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Seligenstadt","Abbrevation":"AG Seligenstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Landgericht Frankfurt am Main","Abbrevation":"LG Frankfurt am Main","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Frankfurt am Main","Abbrevation":"AG Frankfurt am Main","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Bad Homburg v. d. Höhe","Abbrevation":"AG Bad Homburg v. d. Höhe","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Königstein im Taunus","Abbrevation":"AG Königstein im Taunus","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Landgericht Fulda","Abbrevation":"LG Fulda","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Bad Hersfeld","Abbrevation":"AG Bad Hersfeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Fulda","Abbrevation":"AG Fulda","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Hünfeld","Abbrevation":"AG Hünfeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Landgericht Gießen","Abbrevation":"LG Gießen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Alsfeld","Abbrevation":"AG Alsfeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Büdingen","Abbrevation":"AG Büdingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Friedberg (Hessen)","Abbrevation":"AG Friedberg (Hessen)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Gießen","Abbrevation":"AG Gießen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Landgericht Hanau","Abbrevation":"LG Hanau","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Gelnhausen","Abbrevation":"AG Gelnhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Hanau","Abbrevation":"AG Hanau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Landgericht Kassel","Abbrevation":"LG Kassel","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Amtsgericht Eschwege","Abbrevation":"AG AG Eschwege","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Fritzlar","Abbrevation":"AG Fritzlar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Kassel","Abbrevation":"AG Kassel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Korbach","Abbrevation":"AG Korbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Melsungen","Abbrevation":"AG Melsungen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Landgericht Limburg","Abbrevation":"LG Limburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Dillenburg","Abbrevation":"AG Dillenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Limburg an der Lahn","Abbrevation":"AG Limburg an der Lahn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Weilburg","Abbrevation":"AG Weilburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Wetzlar","Abbrevation":"AG Wetzlar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Landgericht Marburg","Abbrevation":"LG Marburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Biedenkopf","Abbrevation":"AG Biedenkopf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Frankenberg (Eder)","Abbrevation":"AG Frankenberg (Eder)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Kirchhain","Abbrevation":"AG Kirchhain","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Marburg","Abbrevation":"AG Marburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Schwalmstadt","Abbrevation":"AG Schwalmstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Landgericht Wiesbaden","Abbrevation":"LG Wiesbaden","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Bad Schwalbach","Abbrevation":"AG Bad Schwalbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Rüdesheim am Rhein","Abbrevation":"AG Rüdesheim am Rhein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"}
+,
+{"Name":"Amtsgericht Idstein","Abbrevation":"AG Idstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Amtsgericht Wiesbaden","Abbrevation":"AG Wiesbaden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Hessen"},
+{"Name":"Oberlandesgericht Rostock","Abbrevation":"OLG Rostock","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Landgericht Neubrandenburg","Abbrevation":"LG Neubrandenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Neubrandenburg","Abbrevation":"AG Neubrandenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Pasewalk","Abbrevation":"AG Pasewalk","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Waren (Müritz)","Abbrevation":"AG Waren (Müritz)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"}
+,
+{"Name":"Landgericht Rostock","Abbrevation":"LG Rostock","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Güstrow","Abbrevation":"AG Güstrow","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"}
+,
+{"Name":"Amtsgericht Rostock","Abbrevation":"AG Rostock","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Landgericht Schwerin","Abbrevation":"LG Schwerin","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Ludwigslust","Abbrevation":"AG Ludwigslust","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Schwerin","Abbrevation":"AG Schwerin","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Wismar","Abbrevation":"AG Wismar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Landgericht Stralsund","Abbrevation":"LG Stralsund","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Greifswald","Abbrevation":"AG Greifswald","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Amtsgericht Stralsund","Abbrevation":"AG Stralsund","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Oberlandesgericht  Braunschweig","Abbrevation":"OLG Braunschweig","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Braunschweig","Abbrevation":"LG Braunschweig","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Bad Gandersheim","Abbrevation":"AG Bad Gandersheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Braunschweig","Abbrevation":"AG Braunschweig","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Clausthal-Zellerfeld","Abbrevation":"AG Clausthal-Zellerfeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Goslar","Abbrevation":"AG Goslar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Helmstedt","Abbrevation":"AG Helmstedt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Salzgitter","Abbrevation":"AG Salzgitter","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Seesen","Abbrevation":"AG Seesen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Wolfenbüttel","Abbrevation":"AG Wolfenbüttel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Wolfsburg","Abbrevation":"AG Wolfsburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Göttingen","Abbrevation":"LG Göttingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Duderstadt","Abbrevation":"AG Duderstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Einbeck","Abbrevation":"AG Einbeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Göttingen","Abbrevation":"AG Göttingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Hann. Münden","Abbrevation":"AG Hann. Münden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Herzberg am Harz","Abbrevation":"AG Herzberg am Harz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Northeim","Abbrevation":"AG Northeim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Osterode am Harz","Abbrevation":"AG Osterode am Harz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Oberlandesgericht Celle","Abbrevation":"OLG Celle","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Bückeburg","Abbrevation":"LG Bückeburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Bückeburg","Abbrevation":"AG Bückeburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Rinteln","Abbrevation":"AG Rinteln","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Stadthagen","Abbrevation":"AG Stadthagen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Hannover","Abbrevation":"LG Hannover","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Burgwedel","Abbrevation":"AG Burgwedel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Hameln","Abbrevation":"AG Hameln","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Hannover","Abbrevation":"AG Hannover","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Neustadt am Rübenberge","Abbrevation":"AG Neustadt am Rübenberge","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Springe","Abbrevation":"AG Springe","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Wennigsen (Deister)","Abbrevation":"AG Wennigsen (Deister)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Hildesheim","Abbrevation":"LG Hildesheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Alfeld (Leine)","Abbrevation":"AG Alfeld (Leine)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Burgdorf","Abbrevation":"AG Burgdorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Elze","Abbrevation":"AG Elze","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Gifhorn","Abbrevation":"AG Gifhorn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Hildesheim","Abbrevation":"AG Hildesheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Holzminden","Abbrevation":"AG Holzminden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Lehrte","Abbrevation":"AG Lehrte","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Peine","Abbrevation":"AG Peine","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Lüneburg","Abbrevation":"LG Lüneburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Celle","Abbrevation":"AG Celle","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Dannenberg (Elbe)","Abbrevation":"AG Dannenberg (Elbe)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Lüneburg","Abbrevation":"AG Lüneburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Soltau","Abbrevation":"AG Soltau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Uelzen","Abbrevation":"AG Uelzen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Winsen","Abbrevation":"AG Winsen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Stade","Abbrevation":"LG Stade","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Amtsgericht Bremervörde","Abbrevation":"AG AG Bremervörde","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Buxtehude","Abbrevation":"AG Buxtehude","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Cuxhaven","Abbrevation":"AG Cuxhaven","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Geestland","Abbrevation":"AG Geestland","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Otterndorf","Abbrevation":"AG Otterndorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Stade","Abbrevation":"AG Stade","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Tostedt","Abbrevation":"AG Tostedt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Zeven","Abbrevation":"AG Zeven","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Verden","Abbrevation":"LG Verden","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Achim","Abbrevation":"AG Achim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Diepholz","Abbrevation":"AG Diepholz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Nienburg","Abbrevation":"AG Nienburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Osterholz-Scharmbeck","Abbrevation":"AG Osterholz-Scharmbeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Rotenburg (Wümme)","Abbrevation":"AG Rotenburg (Wümme)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Stolzenau","Abbrevation":"AG Stolzenau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Sulingen","Abbrevation":"AG Sulingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Syke","Abbrevation":"AG Syke","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Verden","Abbrevation":"AG Verden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Walsrode","Abbrevation":"AG Walsrode","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Oberlandesgericht Oldenburg","Abbrevation":"OLG Oldenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Aurich","Abbrevation":"LG Aurich","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Aurich","Abbrevation":"AG Aurich","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Emden","Abbrevation":"AG Emden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Leer","Abbrevation":"AG Leer","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Norden","Abbrevation":"AG Norden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Wittmund","Abbrevation":"AG Wittmund","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Oldenburg","Abbrevation":"LG Oldenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Brake","Abbrevation":"AG Brake","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Cloppenburg","Abbrevation":"AG Cloppenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Delmenhorst","Abbrevation":"AG Delmenhorst","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Jever","Abbrevation":"AG Jever","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Nordenham","Abbrevation":"AG Nordenham","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Oldenburg","Abbrevation":"AG Oldenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Varel","Abbrevation":"AG Varel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Vechta","Abbrevation":"AG Vechta","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Westerstede","Abbrevation":"AG Westerstede","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Wildeshausen","Abbrevation":"AG Wildeshausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Wilhelmshaven","Abbrevation":"AG Wilhelmshaven","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Landgericht Osnabrück","Abbrevation":"LG Osnabrück","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Bad Iburg","Abbrevation":"AG Bad Iburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Bersenbrück","Abbrevation":"AG Bersenbrück","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Lingen","Abbrevation":"AG Lingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Meppen","Abbrevation":"AG Meppen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Nordhorn","Abbrevation":"AG Nordhorn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Amtsgericht Osnabrück","Abbrevation":"AG Osnabrück","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Amtsgericht Papenburg","Abbrevation":"AG Papenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Niedersachsen"},
+{"Name":"Oberlandesgericht Düsseldorf","Abbrevation":"OLG Düseldorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Landgericht Duisburg","Abbrevation":"LG Duisburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Dinslaken","Abbrevation":"AG Dinslaken","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Duisburg","Abbrevation":"AG Duisburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Duisburg-Hamborn","Abbrevation":"AG Duisburg-Hamborn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Duisburg-Ruhrort","Abbrevation":"AG Duisburg-Ruhrort","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Mülheim an der Ruhr","Abbrevation":"AG Mülheim an der Ruhr","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Oberhausen","Abbrevation":"AG Oberhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Wesel","Abbrevation":"AG Wesel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Düsseldorf","Abbrevation":"LG Düsseldorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Düsseldorf","Abbrevation":"AG Düsseldorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Langenfeld (Rheinland)","Abbrevation":"AG Langenfeld (Rheinland)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Neuss","Abbrevation":"AG Neuss","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Ratingen","Abbrevation":"AG Ratingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Kleve","Abbrevation":"LG Kleve","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Emmerich","Abbrevation":"AG Emmerich","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Kleve","Abbrevation":"AG Kleve","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Geldern","Abbrevation":"AG Geldern","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Moers","Abbrevation":"AG Moers","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Rheinberg","Abbrevation":"AG Rheinberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Krefeld","Abbrevation":"LG Krefeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Kempen","Abbrevation":"AG Kempen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Krefeld","Abbrevation":"AG Krefeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Nettetal","Abbrevation":"AG Nettetal","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Mönchengladbach","Abbrevation":"LG Mönchengladbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Erkelenz","Abbrevation":"AG Erkelenz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Grevenbroich","Abbrevation":"Grevenbroich","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Mönchengladbach","Abbrevation":"AG Mönchengladbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Mönchengladbach-Rheydt","Abbrevation":"AG Mönchengladbach-Rheydt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Viersen","Abbrevation":"AG Viersen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Wuppertal","Abbrevation":"LG Wuppertal","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Mettmann","Abbrevation":"AG Mettmann","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Remscheid","Abbrevation":"AG Remscheid","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Solingen","Abbrevation":"AG Solingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Velbert","Abbrevation":"AG Velbert","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Wuppertal","Abbrevation":"AG Wuppertal","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Oberlandesgericht Hamm","Abbrevation":"OLG Hamm","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Arnsberg","Abbrevation":"LG Arnsberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Arnsberg","Abbrevation":"AG Arnsberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Brilon","Abbrevation":"AG Brilon","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Marsberg","Abbrevation":"AG Marsberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Medebach","Abbrevation":"AG Medebach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Menden (Sauerland)","Abbrevation":"AG Menden (Sauerland)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Meschede","Abbrevation":"AG Meschede","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Schmallenberg","Abbrevation":"AG Schmallenberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Soest","Abbrevation":"AG Soest","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Warstein","Abbrevation":"AG Warstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Werl","Abbrevation":"AG Werl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Bielefeld","Abbrevation":"LG Bielefeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bielefeld","Abbrevation":"AG Bielefeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bünde","Abbrevation":"AG Bünde","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Gütersloh","Abbrevation":"AG Gütersloh","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Halle (Westfalen)","Abbrevation":"AG Halle (Westfalen)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Herford","Abbrevation":"AG Herford","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Lübbecke","Abbrevation":"AG Lübbecke","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Minden","Abbrevation":"AG Minden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bad Oeynhausen","Abbrevation":"AG Bad Oeynhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Rahden","Abbrevation":"AG Rahden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Rheda-Wiedenbrück","Abbrevation":"AG Rheda-Wiedenbrück","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Landgericht Bochum","Abbrevation":"LG Bochum","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Amtsgericht Bochum","Abbrevation":"AG AG Bochum","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Herne","Abbrevation":"AG Herne","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Recklinghausen","Abbrevation":"AG Recklinghausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Herne-Wanne","Abbrevation":"AG Herne-Wanne","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Witten","Abbrevation":"AG Witten","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Detmold","Abbrevation":"LG Detmold","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Amtsgericht Blomberg","Abbrevation":"AG AG Blomberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Detmold","Abbrevation":"AG Detmold","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Lemgo","Abbrevation":"AG Lemgo","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Dortmund","Abbrevation":"LG Dortmund","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Amtsgericht Castrop-Rauxel","Abbrevation":"AG AG Castrop-Rauxel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Dortmund","Abbrevation":"AG Dortmund","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Hamm","Abbrevation":"AG Hamm","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Kamen","Abbrevation":"AG Kamen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Lünen","Abbrevation":"AG Lünen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Unna","Abbrevation":"AG Unna","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Essen","Abbrevation":"LG Essen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bottrop","Abbrevation":"AG Bottrop","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Dorsten","Abbrevation":"AG Dorsten","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Essen","Abbrevation":"AG Essen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Essen-Borbeck","Abbrevation":"AG Essen-Borbeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Essen-Steele","Abbrevation":"AG Essen-Steele","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Gelsenkirchen","Abbrevation":"AG Gelsenkirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Gladbeck","Abbrevation":"AG Gladbeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Hattingen","Abbrevation":"AG Hattingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Marl","Abbrevation":"AG Marl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Hagen","Abbrevation":"LG Hagen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Altena","Abbrevation":"AG Altena","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Hagen","Abbrevation":"AG Hagen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Iserlohn","Abbrevation":"AG Iserlohn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Lüdenscheid","Abbrevation":"AG Lüdenscheid","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Meinerzhagen","Abbrevation":"AG Meinerzhagen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Plettenberg","Abbrevation":"AG Plettenberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Schwelm","Abbrevation":"AG Schwelm","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Schwerte","Abbrevation":"AG Schwerte","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtagericht Wetter (Ruhr)","Abbrevation":"AG Wetter (Ruhr)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Münster","Abbrevation":"LG Münster","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Ahaus","Abbrevation":"AG Ahaus","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Ahlen","Abbrevation":"AG Ahlen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Beckum","Abbrevation":"AG Beckum","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bocholt","Abbrevation":"AG Bocholt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Borken","Abbrevation":"AG Borken","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Coesfeld","Abbrevation":"AG Coesfeld","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Dülmen","Abbrevation":"AG Dülmen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Gronau (Westf.)","Abbrevation":"AG Gronau (Westf.)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Ibbenbüren","Abbrevation":"AG Ibbenbüren","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Lüdinghausen","Abbrevation":"AG Lüdinghausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Münster (Westfalen)","Abbrevation":"AG Münster (Westfalen)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Rheine","Abbrevation":"AG Rheine","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Steinfurt","Abbrevation":"AG Steinfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Tecklenburg","Abbrevation":"AG Tecklenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Warendorf","Abbrevation":"AG Warendorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Paderborn","Abbrevation":"LG Paderborn","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Brakel","Abbrevation":"AG Brakel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Delbrück","Abbrevation":"AG Delbrück","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Höxter","Abbrevation":"AG Höxter","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Lippstadt","Abbrevation":"AG Lippstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"AG Paderborn","Abbrevation":"AG Paderborn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Warburg","Abbrevation":"AG Warburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Siegen","Abbrevation":"LG Siegen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bad Berleburg","Abbrevation":"AG Bad Berleburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Lennestadt","Abbrevation":"AG Lennestadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Olpe","Abbrevation":"AG Olpe","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Siegen","Abbrevation":"AG Siegen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Oberlandesgericht Köln","Abbrevation":"OLG Köln","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Landgericht Aachen","Abbrevation":"LG Aachen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Aachen","Abbrevation":"AG Aachen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Düren","Abbrevation":"AG Düren","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Eschweiler","Abbrevation":"AG Eschweiler","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Geilenkirchen","Abbrevation":"AG Geilenkirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Heinsberg","Abbrevation":"AG Heinsberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Jülich","Abbrevation":"AG Jülich","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Monschau","Abbrevation":"AG Monschau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Schleiden","Abbrevation":"AG Schleiden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Landgericht Bonn","Abbrevation":"LG Bonn","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bonn","Abbrevation":"AG Bonn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Euskirchen","Abbrevation":"AG Euskirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Königswinter","Abbrevation":"AG Königswinter","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Rheinbach","Abbrevation":"AG Rheinbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Siegburg","Abbrevation":"AG Siegburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Waldbröl","Abbrevation":"AG Waldbröl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Landgericht Köln","Abbrevation":"LG Köln","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Bergheim","Abbrevation":"AG Bergheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Bergisch Gladbach","Abbrevation":"AG Bergisch Gladbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Brühl","Abbrevation":"AG Brühl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Gummersbach","Abbrevation":"AG Gummersbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Kerpen","Abbrevation":"AG Kerpen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Köln","Abbrevation":"AG Köln","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Amtsgericht Leverkusen","Abbrevation":"AG Leverkusen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Wermelskirchen","Abbrevation":"AG Wermelskirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Amtsgericht Wipperfürth","Abbrevation":"AG Wipperfürth","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Pfälzisches Oberlandesgericht","Abbrevation":"OLG Zweibrücken","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Landgericht Frankenthal (Pfalz)","Abbrevation":"LG Frankenthal (Pfalz)","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bad Dürkheim","Abbrevation":"AG Bad Dürkheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Amtsgericht Frankenthal (Pfalz)","Abbrevation":"AG Frankenthal (Pfalz)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Grünstadt","Abbrevation":"AG Grünstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Amtsgericht Ludwigshafen","Abbrevation":"AG Ludwigshafen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Neustadt an der Weinstraße","Abbrevation":"AG Neustadt an der Weinstraße","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Amtsgericht Speyer","Abbrevation":"AG Speyer","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Landgericht Kaiserslautern","Abbrevation":"LG Kaiserslautern","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Kaiserslautern","Abbrevation":"AG Kaiserslautern","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Kusel","Abbrevation":"AG Kusel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Rockenhausen","Abbrevation":"AG Rockenhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Landgericht Landau i. d. Pfalz","Abbrevation":"LG Landau i. d. Pfalz","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Germersheim","Abbrevation":"AG Germersheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Kandel","Abbrevation":"AG Kandel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Landau in der Pfalz","Abbrevation":"AG Landau in der Pfalz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Landgericht Zweibrücken","Abbrevation":"LG Zweibrücken","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Amtsgericht Landstuhl","Abbrevation":"AG Landstuhl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Pirmasens","Abbrevation":"AG Pirmasens","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Zweibrücken","Abbrevation":"AG Zweibrücken","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Oberlandesgericht Koblenz","Abbrevation":"OLG Koblenz","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Landgericht Bad Kreuznach","Abbrevation":"LG Bad Kreuznach","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bad Kreuznach","Abbrevation":"AG Bad Kreuznach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bad Sobernheim","Abbrevation":"AG Bad Sobernheim","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Idar-Oberstein","Abbrevation":"AG Idar-Oberstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Simmern/Hunsrück","Abbrevation":"AG Simmern/Hunsrück","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Landgericht Koblenz","Abbrevation":"LG Koblenz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Altenkirchen","Abbrevation":"AG Altenkirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Andernach","Abbrevation":"AG Andernach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bad Neuenahr-Ahrweiler","Abbrevation":"AG Bad Neuenahr-Ahrweiler","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Betzdorf","Abbrevation":"AG Betzdorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Cochem","Abbrevation":"AG Cochem","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Diez","Abbrevation":"AG Diez","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Koblenz","Abbrevation":"AG Koblenz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Lahnstein","Abbrevation":"AG Lahnstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Linz am Rhein","Abbrevation":"AG Linz am Rhein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Mayen","Abbrevation":"AG Mayen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Montabaur","Abbrevation":"AG Montabaur","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Neuwied","Abbrevation":"AG Neuwied","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Sankt Goar","Abbrevation":"AG Sankt Goar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Sinzig","Abbrevation":"AG Sinzig","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Westerburg","Abbrevation":"AG Westerburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Landgericht Mainz","Abbrevation":"LG Mainz","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Alzey","Abbrevation":"AG Alzey","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bingen am Rhein","Abbrevation":"AG Bingen am Rhein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Mainz","Abbrevation":"AG Mainz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Worms","Abbrevation":"AG Worms","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Landgericht Trier","Abbrevation":"LG Trier","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bernkastel-Kues","Abbrevation":"AG Bernkastel-Kues","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Bitburg","Abbrevation":"AG Bitburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Daun","Abbrevation":"AG Daun","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Hermeskeil","Abbrevation":"AG Hermeskeil","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Prüm","Abbrevation":"AG Prüm","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Amtsgericht Saarburg","Abbrevation":"AG Saarburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Trier","Abbrevation":"AG Trier","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Amtsgericht Wittlich","Abbrevation":"AG Wittlich","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Saarländisches Oberlandesgericht","Abbrevation":"OLG Saarbrücken","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Saarland"}
+,
+{"Name":"Landgericht Saarbrücken","Abbrevation":"LG Saarbrücken","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Saarland"}
+,
+{"Name":"Amtsgericht Homburg","Abbrevation":"AG Homburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht Lebach","Abbrevation":"AG Lebach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht Merzig","Abbrevation":"AG Merzig","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht Neunkirchen","Abbrevation":"AG Neunkirchen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht Ottweiler","Abbrevation":"AG Ottweiler","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht Saarbrücken","Abbrevation":"AG Saarbrücken","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"}
+,
+{"Name":"Amtsgericht Saarlouis","Abbrevation":"AG Saarlouis","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht St. Ingbert","Abbrevation":"AG St. Ingbert","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht St. Wendel","Abbrevation":"AG St. Wendel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"},
+{"Name":"Amtsgericht Völklingen","Abbrevation":"AG Völklingen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Saarland"}
+,
+{"Name":"Oberlandesgericht Dresden","Abbrevation":"OLG Dresden","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Sachsen"},
+{"Name":"Landgericht Chemnitz","Abbrevation":"LG Chemnitz","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Aue","Abbrevation":"AG Aue","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Chemnitz","Abbrevation":"AG Chemnitz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Döbeln","Abbrevation":"AG Döbeln","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"}
+,
+{"Name":"Amtsgericht Freiberg","Abbrevation":"AG Freiberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Marienberg","Abbrevation":"AG Marienberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Landgericht Dresden","Abbrevation":"LG Dresden","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Dippoldiswalde","Abbrevation":"AG Dippoldiswalde","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Dresden","Abbrevation":"AG Dresden","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Meißen","Abbrevation":"AG Meißen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"}
+,
+{"Name":"Amtsgericht Pirna","Abbrevation":"AG Pirna","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Riesa","Abbrevation":"AG Riesa","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Landgericht Görlitz","Abbrevation":"LG Görlitz","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen"}
+,
+{"Name":"Amtsgericht Bautzen","Abbrevation":"AG Bautzen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Görlitz","Abbrevation":"AG Görlitz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"}
+,
+{"Name":"Amtsgericht Hoyerswerda","Abbrevation":"AG Hoyerswerda","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Kamenz","Abbrevation":"AG Kamenz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Weißwasser","Abbrevation":"AG Weißwasser","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"}
+,
+{"Name":"Amtsgericht Zittau","Abbrevation":"AG Zittau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Landgericht Leipzig","Abbrevation":"LG Leipzig","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Borna","Abbrevation":"AG Borna","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Eilenburg","Abbrevation":"AG Eilenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Grimma","Abbrevation":"AG Grimma","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Leipzig","Abbrevation":"AG Leipzig","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Torgau","Abbrevation":"AG Torgau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"","Abbrevation":"","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Landgericht Zwickau","Abbrevation":"LG Zwickau","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Auerbach","Abbrevation":"AG Auerbach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Hohenstein-Ernstthal","Abbrevation":"AG Hohenstein-Ernstthal","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Plauen","Abbrevation":"AG Plauen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Amtsgericht Zwickau","Abbrevation":"AG Zwickau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen"},
+{"Name":"Oberlandesgericht Naumburg","Abbrevation":"OLG Naumburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Dessau-Roßlau","Abbrevation":"LG Dessau-Roßlau","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Bitterfeld-Wolfen","Abbrevation":"AG Bitterfeld-Wolfen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Dessau-Roßlau","Abbrevation":"AG Dessau-Roßlau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Köthen","Abbrevation":"AG Köthen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Wittenberg","Abbrevation":"AG Wittenberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Zerbst","Abbrevation":"AG Zerbst","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Halle","Abbrevation":"LG Halle","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Eisleben","Abbrevation":"AG Eisleben","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Halle (Saale)","Abbrevation":"AG Halle (Saale)","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Merseburg","Abbrevation":"AG Merseburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Naumburg","Abbrevation":"AG Naumburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Sangerhausen","Abbrevation":"AG Sangerhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Weißenfels","Abbrevation":"AG Weißenfels","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Zeitz","Abbrevation":"AG Zeitz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Magdeburg","Abbrevation":"LG Magdeburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Aschersleben","Abbrevation":"AG Aschersleben","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Bernburg","Abbrevation":"AG Bernburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Halberstadt","Abbrevation":"AG Halberstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Haldensleben","Abbrevation":"AG Haldensleben","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Magdeburg","Abbrevation":"AG Magdeburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Oschersleben","Abbrevation":"AG Oschersleben","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Quedlinburg","Abbrevation":"AG Quedlinburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Schönebeck","Abbrevation":"AG Schönebeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Wernigerode","Abbrevation":"AG Wernigerode","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Stendal","Abbrevation":"LG Stendal","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Burg","Abbrevation":"AG Burg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Gardelegen","Abbrevation":"AG Gardelegen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Salzwedel","Abbrevation":"AG Salzwedel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Stendal","Abbrevation":"AG Stendal","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Schleswig-Holsteinisches Oberlandesgericht","Abbrevation":"OLG Schleswig","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Flensburg","Abbrevation":"LG Flensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Flensburg","Abbrevation":"AG Flensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Husum","Abbrevation":"AG Husum","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Niebüll","Abbrevation":"AG Niebüll","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Schleswig","Abbrevation":"AG Schleswig","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Itzehoe","Abbrevation":"LG Itzehoe","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Elmshorn","Abbrevation":"AG Elmshorn","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Itzehoe","Abbrevation":"AG Itzehoe","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Meldorf","Abbrevation":"AG Meldorf","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Pinneberg","Abbrevation":"AG Pinneberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Kiel","Abbrevation":"LG Kiel","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Bad Segeberg","Abbrevation":"AG Bad Segeberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Eckernförde","Abbrevation":"AG Eckernförde","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Kiel","Abbrevation":"AG Kiel","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Neumünster","Abbrevation":"AG Neumünster","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Norderstedt","Abbrevation":"AG Norderstedt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Plön","Abbrevation":"AG Plön","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Rendsburg","Abbrevation":"AG Rendsburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Landgericht Lübeck","Abbrevation":"LG Lübeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Ahrensburg","Abbrevation":"AG Ahrensburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Eutin","Abbrevation":"AG Eutin","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Lübeck","Abbrevation":"AG Lübeck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"}
+,
+{"Name":"Amtsgericht Oldenburg in Holstein","Abbrevation":"AG Oldenburg in Holstein","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Ratzeburg","Abbrevation":"AG Ratzeburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Reinbek","Abbrevation":"AG Reinbek","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Amtsgericht Schwarzenbek","Abbrevation":"AG Schwarzenbek","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Thüringer Oberlandesgericht","Abbrevation":"OLG Jena","Type":"Ordentliche Gerichtsbarkeit","Level":"Oberlandesgericht","Context":"Thüringen"}
+,
+{"Name":"Landgericht Erfurt","Abbrevation":"LG Erfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Apolda","Abbrevation":"AG Apolda","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Arnstadt","Abbrevation":"AG Arnstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Erfurt","Abbrevation":"AG Erfurt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Gotha","Abbrevation":"AG Gotha","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Sömmerda","Abbrevation":"AG Sömmerda","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Weimar","Abbrevation":"AG Weimar","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Landgericht Gera","Abbrevation":"LG Gera","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Altenburg","Abbrevation":"AG Altenburg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Gera","Abbrevation":"AG Gera","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Greiz","Abbrevation":"AG Greiz","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Jena","Abbrevation":"AG Jena","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Pößneck","Abbrevation":"AG Pößneck","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Rudolstadt","Abbrevation":"AG Rudolstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Stadtroda","Abbrevation":"AG Stadtroda","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Landgericht Meiningen","Abbrevation":"LG Meiningen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Bad Salzungen","Abbrevation":"AG Bad Salzungen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Eisenach","Abbrevation":"AG Eisenach","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Hildburghausen","Abbrevation":"AG Hildburghausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Ilmenau","Abbrevation":"AG Ilmenau","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Meiningen","Abbrevation":"AG Meiningen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Sonneberg","Abbrevation":"AG Sonneberg","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Suhl","Abbrevation":"AG Suhl","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Landgericht Mühlhausen","Abbrevation":"LG Mühlhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Landesgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Heilbad Heiligenstadt","Abbrevation":"AG Heilbad Heiligenstadt","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Mühlhausen/Thüringen","Abbrevation":"AG Mühlhausen/Thüringen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Nordhausen","Abbrevation":"AG Nordhausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Amtsgericht Sondershausen","Abbrevation":"AG Sondershausen","Type":"Ordentliche Gerichtsbarkeit","Level":"Amtsgericht","Context":"Thüringen"}
+,
+{"Name":"Bundesverwaltungsgericht","Abbrevation":"BVerwG","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberster Gerichtshof des Bundes","Context":"Bund"},
+{"Name":"Verwaltungsgerichtshof Baden-Württemberg","Abbrevation":"VerwGH Mannheim","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Verwaltungsgericht Freiburg","Abbrevation":"VG Freiburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Verwaltungsgericht Karlsruhe","Abbrevation":"VG Karlsruhe","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Verwaltungsgericht Sigmaringen","Abbrevation":"VG Sigmaringen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Verwaltungsgericht Stuttgart","Abbrevation":"VG Stuttgart","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Baden-Württemberg"}
+,
+{"Name":"Bayerischer Verwaltungsgerichtshof","Abbrevation":"VerwGH München","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Bayern"}
+,
+{"Name":"Verwaltungsgericht Ansbach","Abbrevation":"VG Ansbach","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bayern"},
+{"Name":"Verwaltungsgericht Augsburg","Abbrevation":"VG Augsburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bayern"},
+{"Name":"Verwaltungsgericht Bayreuth","Abbrevation":"VG Bayreuth","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bayern"},
+{"Name":"Verwaltungsgericht München","Abbrevation":"VG München","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bayern"}
+,
+{"Name":"Verwaltungsgericht Regensburg","Abbrevation":"VG Regensburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bayern"},
+{"Name":"Verwaltungsgericht Würzburg","Abbrevation":"VG Würzburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bayern"}
+,
+{"Name":"Oberverwaltungsgericht Berlin-Brandenburg","Abbrevation":"OVG Berlin-Brandenburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Berlin-Brandenburg"},
+{"Name":"Verwaltungsgericht Berlin","Abbrevation":"VG Berlin","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Berlin-Brandenburg"},
+{"Name":"Verwaltungsgericht Cottbus","Abbrevation":"VG Cottbus","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Berlin-Brandenburg"},
+{"Name":"Verwaltungsgericht Frankfurt (Oder)","Abbrevation":"VG Frankfurt (Oder)","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Berlin-Brandenburg"},
+{"Name":"Verwaltungsgericht Potsdam","Abbrevation":"VG Potsdam","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Berlin-Brandenburg"},
+{"Name":"Oberverwaltungsgericht der Freien Hansestadt Bremen","Abbrevation":"OVG Bremen","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Bremen"},
+{"Name":"Verwaltungsgericht der Freien Hansestadt Bremen","Abbrevation":"VG Bremen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Bremen"},
+{"Name":"Hamburgisches Oberverwaltungsgericht","Abbrevation":"Hamburgisches OVG","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Hamburg"},
+{"Name":"Verwaltungsgericht Hamburg","Abbrevation":"VG Hamburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Hamburg"},
+{"Name":"Hessischer Verwaltungsgerichtshof","Abbrevation":"Hessischer VerwGH","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Hessen"},
+{"Name":"Verwaltungsgericht Darmstadt","Abbrevation":"VG Darmstadt","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Hessen"},
+{"Name":"Verwaltungsgericht Frankfurt am Main","Abbrevation":"VG Frankfurt am Main","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Hessen"},
+{"Name":"Verwaltungsgericht Gießen","Abbrevation":"VG Gießen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Hessen"}
+,
+{"Name":"Verwaltungsgericht Kassel","Abbrevation":"VG Kassel","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Hessen"},
+{"Name":"Verwaltungsgericht Wiesbaden","Abbrevation":"VG Wiesbaden","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Hessen"},
+{"Name":"Oberverwaltungsgericht Mecklenburg-Vorpommern","Abbrevation":"OVG Greifswald","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Verwaltungsgericht Schwerin","Abbrevation":"VG Schwerin","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Verwaltungsgericht Greifswald","Abbrevation":"VG Greifswald","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Mecklenburg-Vorpommern"},
+{"Name":"Niedersächsisches Oberverwaltungsgericht","Abbrevation":"OVG Lüneburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Verwaltungsgericht Braunschweig","Abbrevation":"VG Braunschweig","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"},
+{"Name":"Verwaltungsgericht Göttingen","Abbrevation":"VG Göttingen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Verwaltungsgericht Hannover","Abbrevation":"VG Hannover","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"},
+{"Name":"Verwaltungsgericht Lüneburg","Abbrevation":"VG Lüneburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Verwaltungsgericht Oldenburg","Abbrevation":"VG Oldenburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"},
+{"Name":"Verwaltungsgericht Osnabrück","Abbrevation":"VG Osnabrück","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"}
+,
+{"Name":"Verwaltungsgericht Stade","Abbrevation":"VG Stade","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Niedersachsen"},
+{"Name":"Oberverwaltungsgericht für das Land Nordrhein-Westfalen","Abbrevation":"OVG Münster","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Verwaltungsgericht Aachen","Abbrevation":"VG Aachen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Verwaltungsgericht Arnsberg","Abbrevation":"VG Arnsberg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Verwaltungsgericht Düsseldorf","Abbrevation":"VG Düsseldorf","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Verwaltungsgericht Gelsenkirchen","Abbrevation":"VG Gelsenkirchen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Verwaltungsgericht Köln","Abbrevation":"VG Köln","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Verwaltungsgericht Minden","Abbrevation":"VG Minden","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"},
+{"Name":"Verwaltungsgericht Münster","Abbrevation":"VG Münster","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Nordrhein-Westfalen"}
+,
+{"Name":"Oberverwaltungsgericht Rheinland-Pfalz","Abbrevation":"OVG Koblenz","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Verwaltungsgericht Koblenz","Abbrevation":"VG Koblenz","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Verwaltungsgericht Mainz","Abbrevation":"VG Mainz","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Verwaltungsgericht Neustadt an der Weinstraße","Abbrevation":"VG Neustadt","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Rheinland-Pfalz"}
+,
+{"Name":"Verwaltungsgericht Trier","Abbrevation":"VG Trier","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Rheinland-Pfalz"},
+{"Name":"Oberverwaltungsgericht des Saarlandes","Abbrevation":"OVG Saarlouis","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Saarland"},
+{"Name":"Verwaltungsgericht des Saarlandes","Abbrevation":"VG (in Saarlouis)","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Saarland"},
+{"Name":"Sächsisches Oberverwaltungsgericht","Abbrevation":"OVG Bautzen","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Sachsen"}
+,
+{"Name":"Verwaltungsgericht Chemnitz","Abbrevation":"VG Chemnitz","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Sachsen"},
+{"Name":"Verwaltungsgericht Dresden","Abbrevation":"VG Dresden","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Sachsen"},
+{"Name":"Verwaltungsgericht Leipzig","Abbrevation":"VG Leipzig","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Oberverwaltungsgericht des Landes Sachsen-Anhalt","Abbrevation":"OVG Magdeburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Verwaltungsgerichte Halle","Abbrevation":"VG Halle","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Verwaltungsgerichte Magdeburg","Abbrevation":"VG Magdeburg","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Sachsen-Anhalt"},
+{"Name":"Schleswig-Holsteinisches Oberverwaltungsgericht","Abbrevation":"OVG Schleswig","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Schleswig-Holstein"},
+{"Name":"Schleswig-Holsteinisches Verwaltungsgericht","Abbrevation":"VG Schleswig","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Schleswig-Holstein"},
+{"Name":"Thüringer Oberverwaltungsgericht","Abbrevation":"OVG Weimar","Type":"Verwaltungsgerichtsbarkeit","Level":"Oberverwaltungsgericht","Context":"Thüringen"}
+,
+{"Name":"Verwaltungsgerichte Gera","Abbrevation":"VG Gera","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Thüringen"}
+,
+{"Name":"Verwaltungsgerichte Meiningen","Abbrevation":"VG Meiningen","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Thüringen"}
+,
+{"Name":"Verwaltungsgerichte Weimar","Abbrevation":"VG Weimar","Type":"Verwaltungsgerichtsbarkeit","Level":"Verwaltungsgericht","Context":"Thüringen"}
+
+]
