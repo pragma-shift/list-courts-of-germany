@@ -1,0 +1,868 @@
+Name;Abbrevation;Type;Level;Context
+Europäischer Gerichtshof für Menschenrechte;EGMR;Verfassungsgerichtsbarkeit;Europäisches Gericht;EU
+Bundesverfassungsgericht;BVerfG;Verfassungsgerichtsbarkeit;Verfassungsgericht;Bund
+Verfassungsgerichtshof für das Land Baden-Württemberg;VfGH Baden-Württemberg;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Baden-Württemberg
+Bayerischer Verfassungsgerichtshof;VfGH Bayern;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Bayern
+Verfassungsgerichtshof des Landes Berlin;VfGH Berlin;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Berlin
+Verfassungsgericht des Landes Brandenburg;VerfG Brandenburg;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Brandenburg
+Staatsgerichtshof der Freien Hansestadt Bremen;StGH Bremen;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Bremen
+Hamburgisches Verfassungsgericht;VerfG Hamburg;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Hamburg
+Staatsgerichtshof des Landes Hessen;StGH Hessen;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Hessen
+Landesverfassungsgericht Mecklenburg-Vorpommern;LVerfG Mecklenburg-Vorpommern;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Mecklenburg-Vorpommern
+Niedersächsischer Staatsgerichtshof;StGH Niedersachsen;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Niedersachsen
+Verfassungsgerichtshof für das Land Nordrhein-Westfalen;VfGH NRW;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Nordrhein-Westfalen
+Verfassungsgerichtshof Rheinland-Pfalz;VfGH Rheinland-Pfalz;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Rheinland-Pfalz
+Verfassungsgerichtshof des Saarlandes;VfGH Saarland;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Saarland
+Verfassungsgerichtshof des Freistaates Sachsen;VfGH Sachsen;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Sachsen
+Landesverfassungsgericht Sachsen-Anhalt;LverfG Sachsen-Anhalt;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Sachsen-Anhalt
+Schleswig-Holsteinisches Landesverfassungsgericht;VerfG Schleswig-Holstein;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Schleswig-Holstein
+Thüringer Verfassungsgerichtshof;VfGH Thüringen;Verfassungsgerichtsbarkeit;Landesverfassungsgericht;Thüringen
+Bundesgerichtshof;BGH;Ordentliche Gerichtsbarkeit;Oberster Gerichtshof des Bundes;Bund
+Oberlandesgericht Karlsruhe;OLG Karlsruhe;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Baden-Württemberg
+Landgericht Baden-Baden;LG Baden-Baden;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Achern;AG Achern;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Baden-Baden;AG Baden-Baden;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Bühl;AG Bühl;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Gernsbach;AG Gernsbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Rastatt;AG Rastatt;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Freiburg;LG Freiburg;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Breisach;AG Breisach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Emmendingen;AG Emmendingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Ettenheim;AG Ettenheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Freiburg im Breisgau;AG Freiburg im Breisgau;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Kenzingen;AG Kenzingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Lörrach;AG Lörrach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Müllheim (Baden);AG Müllheim (Baden);Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Staufen im Breisgau;AG Staufen im Breisgau;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Titisee-Neustadt;AG Titisee-Neustadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Waldkirch;AG Waldkirch;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Heidelberg;LG Heidelberg;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Heidelberg;AG Heidelberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Sinsheim;AG Sinsheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Wiesloch;AG Wiesloch;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Karlsruhe;LG Karlsruhe;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Bretten;AG Bretten;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Bruchsal;AG Bruchsal;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Ettlingen;AG Ettlingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Karlsruhe;AG Karlsruhe;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Karlsruhe-Durlach;AG Karlsruhe-Durlach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Maulbronn;AG Maulbronn;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Pforzheim;AG Pforzheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Philippsburg;AG Philippsburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Konstanz;LG Konstanz;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Donaueschingen;AG Donaueschingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Konstanz;AG Konstanz;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Radolfzell;AG Radolfzell;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Singen (Hohentwiel);AG Singen (Hohentwiel);Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Stockach;AG Stockach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Überlingen;AG Überlingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Villingen-Schwenningen;AG Villingen-Schwenningen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Mannheim;LG Mannheim;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Mannheim;AG Mannheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Schwetzingen;AG Schwetzingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Weinheim;AG Weinheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Mosbach;LG Mosbach;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Adelsheim;AG Adelsheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Buchen (Odenwald);AG Buchen (Odenwald);Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Mosbach;AG Mosbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Tauberbischofsheim;AG Tauberbischofsheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Wertheim;AG Wertheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Offenburg;LG Offenburg;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Gengenbach;AG Gengenbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Kehl;AG Kehl;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Lahr;AG Lahr;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Oberkirch;AG Oberkirch;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Offenburg;AG Offenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Wolfach;AG Wolfach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Waldshut-Tiengen;LG Waldshut-Tiengen;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Bad Säckingen;AG Bad Säckingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht St. Blasien;AG St. Blasien;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Schönau;AG Schönau;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Schopfheim;AG Schopfheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Waldshut-Tiengen;AG Waldshut-Tiengen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Oberlandesgericht Stuttgart;OLG Stuttgart;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Baden-Württemberg
+Landgericht Ellwangen/Jagst;LG Ellwangen/Jagst;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Aalen;AG Aalen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Bad Mergentheim;AG Bad Mergentheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Crailsheim;AG Crailsheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Ellwangen;AG Ellwangen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Heidenheim an der Brenz;AG Heidenheim an der Brenz;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Langenburg;AG Langenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Neresheim;AG Neresheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Schwäbisch Gmünd;AG Schwäbisch Gmünd;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Hechingen;LG Hechingen;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Albstadt;AG Albstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Balingen;AG Balingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Hechingen;AG Hechingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Sigmaringen;AG Sigmaringen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Heilbronn;LG Heilbronn;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Besigheim;AG Besigheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Brackenheim;AG Brackenheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Heilbronn;AG Heilbronn;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Künzelsau;AG Künzelsau;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Marbach am Neckar;AG Marbach am Neckar;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Öhringen;AG Öhringen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Schwäbisch Hall;AG Schwäbisch Hall;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Vaihingen an der Enz;AG Vaihingen an der Enz;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Ravensburg;LG Ravensburg;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Bad Saulgau;AG Bad Saulgau;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Bad Waldsee;AG Bad Waldsee;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Biberach an der Riß;AG Biberach an der Riß;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Leutkirch im Allgäu;AG Leutkirch im Allgäu;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Ravensburg;AG Ravensburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Riedlingen;AG Riedlingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Tettnang;AG Tettnang;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Wangen im Allgäu;AG Wangen im Allgäu;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Rottweil;LG Rottweil;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Freudenstadt;AG Freudenstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Horb am Neckar;AG Horb am Neckar;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Oberndorf am Neckar;AG Oberndorf am Neckar;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Rottweil;AG Rottweil;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Spaichingen;AG Spaichingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Tuttlingen;AG Tuttlingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Stuttgart;LG Stuttgart;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Backnang;AG Backnang;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Böblingen;AG Böblingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Esslingen am Neckar;AG Esslingen am Neckar;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Kirchheim unter Teck;AG Kirchheim unter Teck;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Leonberg;AG Leonberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Ludwigsburg;AG Ludwigsburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Nürtingen;AG Nürtingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Schorndorf;AG Schorndorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Stuttgart;AG Stuttgart;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Stuttgart-Bad Cannstatt;AG Stuttgart-Bad Cannstatt;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Waiblingen;AG Waiblingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Tübingen;LG Tübingen;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Bad Urach;AG Bad Urach;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Calw;AG Calw;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Münsingen;AG Münsingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Nagold;AG Nagold;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Reutlingen;AG Reutlingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Rottenburg am Neckar;AG Rottenburg am Neckar;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Tübingen;AG Tübingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+;;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Landgericht Ulm;LG Ulm;Ordentliche Gerichtsbarkeit;Landgericht;Baden-Württemberg
+Amtsgericht Ehingen (Donau);AG Ehingen (Donau);Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Geislingen an der Steige;AG Geislingen an der Steige;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Göppingen;AG Göppingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Amtsgericht Ulm;AG Ulm;Ordentliche Gerichtsbarkeit;Amtsgericht;Baden-Württemberg
+Oberlandesgericht Bamberg;OLG Bamberg;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Bayern
+Landgericht Aschaffenburg;LG Aschaffenburg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Aschaffenburg;AG Aschaffenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Obernburg am Main;AG Obernburg am Main;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Bamberg;LG Bamberg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Bamberg;AG Bamberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Forchheim;AG Forchheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Haßfurt;AG Haßfurt;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Bayreuth;LG Bayreuth;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Bayreuth;AG Bayreuth;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Kulmbach;AG Kulmbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Coburg;LG Coburg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Coburg;AG Coburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Kronach;AG Kronach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Lichtenfels;AG Lichtenfels;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Hof/Saale;LG Hof/Saale;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Hof (Saale);AG Hof (Saale);Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Wunsiedel;AG Wunsiedel;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Schweinfurt;LG Schweinfurt;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Bad Neustadt an der Saale;AG Bad Neustadt an der Saale;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Bad Kissingen;AG Bad Kissingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Schweinfurt;AG Schweinfurt;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Würzburg;LG Würzburg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Gemünden am Main;AG Gemünden am Main;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Kitzingen;AG Kitzingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Würzburg;AG Würzburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Oberlandesgericht München;OLG München;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Bayern
+Landgericht Augsburg;LG Augsburg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Aichach;AG Aichach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Augsburg;AG Augsburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Dillingen an der Donau;AG Dillingen an der Donau;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Landsberg am Lech;AG Landsberg am Lech;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Nördlingen;AG Nördlingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Deggendorf;LG Deggendorf;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Deggendorf;AG Deggendorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Viechtach;AG Viechtach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Ingolstadt;LG Ingolstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Ingolstadt;AG Ingolstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Neuburg an der Donau;AG Neuburg an der Donau;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Pfaffenhofen an der Ilm;AG Pfaffenhofen an der Ilm;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Kempten;LG Kempten;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Kaufbeuren;AG Kaufbeuren;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Kempten;AG Kempten;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Lindau (Bodensee);AG Lindau (Bodensee);Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Sonthofen;AG Sonthofen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Landshut;LG Landshut;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Eggenfelden;AG Eggenfelden;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Erding;AG Erding;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Freising;AG Freising;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Landau an der Isar;AG Landau an der Isar;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Landshut;AG Landshut;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Memmingen;LG Memmingen;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Amtsgericht Günzburg;AG AG Günzburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Memmingen;AG Memmingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Neu-Ulm;AG Neu-Ulm;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht München I;LG München I;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Amtsgericht München;AG AG München;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht München II;LG München II;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Amtsgericht Dachau;AG AG Dachau;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Ebersberg;AG Ebersberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Fürstenfeldbruck;AG Fürstenfeldbruck;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Garmisch-Partenkirchen;AG Garmisch-Partenkirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Miesbach;AG Miesbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Starnberg;AG Starnberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Weilheim in Oberbayern;AG Weilheim in Oberbayern;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Wolfratshausen;AG Wolfratshausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Passau;LG Passau;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Freyung;AG Freyung;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Passau;AG Passau;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Traunstein;LG Traunstein;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Altötting;AG Altötting;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Laufen;AG Laufen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Mühldorf am Inn;AG Mühldorf am Inn;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Rosenheim;AG Rosenheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Traunstein;AG Traunstein;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Oberlandesgericht Nürnberg;OLG Nürnberg;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Bayern
+Landgericht Amberg;LG Amberg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Amberg;AG Amberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Schwandorf;AG Schwandorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Ansbach;LG Ansbach;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Ansbach;AG Ansbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Weißenburg i. Bay.;AG Weißenburg i. Bay.;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Nürnberg-Fürth;LG Nürnberg-Fürth;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Erlangen;AG Erlangen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Fürth;AG Fürth;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Hersbruck;AG Hersbruck;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Neumarkt in der Oberpfalz;AG Neumarkt in der Oberpfalz;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Neustadt an der Aisch;AG Neustadt an der Aisch;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Nürnberg;AG Nürnberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Schwabach;AG Schwabach;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Regensburg;LG Regensburg;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Cham;AG Cham;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Kelheim;AG Kelheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Regensburg;AG Regensburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Straubing;AG Straubing;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Landgericht Weiden in der Oberpfalz;LG Weiden in der Oberpfalz;Ordentliche Gerichtsbarkeit;Landgericht;Bayern
+Amtsgericht Tirschenreuth;AG Tirschenreuth;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Amtsgericht Weiden;AG Weiden;Ordentliche Gerichtsbarkeit;Amtsgericht;Bayern
+Kammergericht Berlin;KG Berlin;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Berlin
+Landgericht Berlin;LG  Berlin;Ordentliche Gerichtsbarkeit;Landgericht;Berlin
+Amtsgericht Charlottenburg;AG Charlottenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Köpenick;AG Köpenick;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Lichtenberg;AG Lichtenberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Mitte;AG Mitte;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Neukölln;AG Neukölln;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Pankow/Weißensee;AG Pankow/Weißensee;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Schöneberg;AG Schöneberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Spandau;AG Spandau;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Tempelhof-Kreuzberg;AG Tempelhof-Kreuzberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Tiergarten;AG Tiergarten;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Amtsgericht Wedding;AG Wedding;Ordentliche Gerichtsbarkeit;Amtsgericht;Berlin
+Brandenburgische Oberlandesgericht;OLG Brandenburg;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Brandenburg
+Landgericht Cottbus;LG Cottbus;Ordentliche Gerichtsbarkeit;Landgericht;Brandenburg
+Amtsgericht Bad Liebenwerda;AG Bad Liebenwerda;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Cottbus;AG Cottbus;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Guben;AG Guben;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Königs Wusterhausen;AG Königs Wusterhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Lübben (Spreewald);AG Lübben (Spreewald);Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Senftenberg;AG Senftenberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Landgericht Frankfurt (Oder);LG Frankfurt (Oder);Ordentliche Gerichtsbarkeit;Landgericht;Brandenburg
+Amtsgericht Amtsgericht Bad Freienwalde (Oder);AG AG Bad Freienwalde (Oder);Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Bernau bei Berlin;AG Bernau bei Berlin;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Eberswalde;AG Eberswalde;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Eisenhüttenstadt;AG Eisenhüttenstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Frankfurt (Oder);AG Frankfurt (Oder);Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Fürstenwalde/Spree;AG Fürstenwalde/Spree;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Strausberg;AG Strausberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+;;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Landgericht Neuruppin;LG Neuruppin;Ordentliche Gerichtsbarkeit;Landgericht;Brandenburg
+Amtsgericht Amtsgericht Neuruppin;AG AG Neuruppin;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Oranienburg;AG Oranienburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Perleberg;AG Perleberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Prenzlau;AG Prenzlau;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Schwedt/Oder;AG Schwedt/Oder;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Zehdenick;AG Zehdenick;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Landgericht Potsdam;LG Potsdam;Ordentliche Gerichtsbarkeit;Landgericht;Brandenburg
+Amtsgericht Brandenburg an der Havel;AG Brandenburg an der Havel;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Luckenwalde;AG Luckenwalde;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Nauen;AG Nauen;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Potsdam;AG Potsdam;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Rathenow;AG Rathenow;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Amtsgericht Zossen;AG Zossen;Ordentliche Gerichtsbarkeit;Amtsgericht;Brandenburg
+Hanseatisches Oberlandesgericht Bremen;OLG Bremen;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Bremen
+Landgericht Bremen;LG Bremen;Ordentliche Gerichtsbarkeit;Landgericht;Bremen
+Amtsgericht Bremen;AG Bremen;Ordentliche Gerichtsbarkeit;Amtsgericht;Bremen
+Amtsgericht Bremen-Blumenthal;AB Bremen Blumenthal;Ordentliche Gerichtsbarkeit;Amtsgericht;Bremen
+Amtsgericht Bremerhaven;AG Bremerhaven;Ordentliche Gerichtsbarkeit;Amtsgericht;Bremen
+Hanseatisches Oberlandesgericht Hamburg;OLG Hamburg;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Hamburg
+Landgericht Hamburg;LG Hamburg;Ordentliche Gerichtsbarkeit;Landgericht;Hamburg
+Amtsgericht Hamburg;AG Hamburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-Altona;AG Hamburg-Altona;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-Barmbek;AG Hamburg-Barmbek;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-Bergedorf;AG Hamburg-Bergedorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-Blankenese;AG Hamburg-Blankenese;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-Harburg;AG Hamburg-Harburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-St. Georg;AG Hamburg-St. Georg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Amtsgericht Hamburg-Wandsbek;AG Hamburg-Wandsbek;Ordentliche Gerichtsbarkeit;Amtsgericht;Hamburg
+Oberlandesgericht Frankfurt a.M.;OLG Frankfurt;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Hessen
+Landgericht Darmstadt;LG Darmstadt;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Bensheim;AG Bensheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Darmstadt;AG Darmstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Dieburg;AG Dieburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Fürth;AG Fürth;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Groß-Gerau;AG Groß-Gerau;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Lampertheim;AG Lampertheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Langen;AG Langen;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Michelstadt;AG Michelstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Offenbach am Main;AG Offenbach am Main;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Rüsselsheim;AG Rüsselsheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Seligenstadt;AG Seligenstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Frankfurt am Main;LG Frankfurt am Main;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Frankfurt am Main;AG Frankfurt am Main;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Bad Homburg v. d. Höhe;AG Bad Homburg v. d. Höhe;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Königstein im Taunus;AG Königstein im Taunus;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Fulda;LG Fulda;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Bad Hersfeld;AG Bad Hersfeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Fulda;AG Fulda;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Hünfeld;AG Hünfeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Gießen;LG Gießen;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Alsfeld;AG Alsfeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Büdingen;AG Büdingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Friedberg (Hessen);AG Friedberg (Hessen);Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Gießen;AG Gießen;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Hanau;LG Hanau;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Gelnhausen;AG Gelnhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Hanau;AG Hanau;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Kassel;LG Kassel;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Amtsgericht Eschwege;AG AG Eschwege;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Fritzlar;AG Fritzlar;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Kassel;AG Kassel;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Korbach;AG Korbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Melsungen;AG Melsungen;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Limburg;LG Limburg;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Dillenburg;AG Dillenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Limburg an der Lahn;AG Limburg an der Lahn;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Weilburg;AG Weilburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Wetzlar;AG Wetzlar;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Marburg;LG Marburg;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Biedenkopf;AG Biedenkopf;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Frankenberg (Eder);AG Frankenberg (Eder);Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Kirchhain;AG Kirchhain;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Marburg;AG Marburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Schwalmstadt;AG Schwalmstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Landgericht Wiesbaden;LG Wiesbaden;Ordentliche Gerichtsbarkeit;Landgericht;Hessen
+Amtsgericht Bad Schwalbach;AG Bad Schwalbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Rüdesheim am Rhein;AG Rüdesheim am Rhein;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Idstein;AG Idstein;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Amtsgericht Wiesbaden;AG Wiesbaden;Ordentliche Gerichtsbarkeit;Amtsgericht;Hessen
+Oberlandesgericht Rostock;OLG Rostock;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Mecklenburg-Vorpommern
+Landgericht Neubrandenburg;LG Neubrandenburg;Ordentliche Gerichtsbarkeit;Landgericht;Mecklenburg-Vorpommern
+Amtsgericht Neubrandenburg;AG Neubrandenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Amtsgericht Pasewalk;AG Pasewalk;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Amtsgericht Waren (Müritz);AG Waren (Müritz);Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Landgericht Rostock;LG Rostock;Ordentliche Gerichtsbarkeit;Landgericht;Mecklenburg-Vorpommern
+Amtsgericht Güstrow;AG Güstrow;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Amtsgericht Rostock;AG Rostock;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Landgericht Schwerin;LG Schwerin;Ordentliche Gerichtsbarkeit;Landgericht;Mecklenburg-Vorpommern
+Amtsgericht Ludwigslust;AG Ludwigslust;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Amtsgericht Schwerin;AG Schwerin;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Amtsgericht Wismar;AG Wismar;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Landgericht Stralsund;LG Stralsund;Ordentliche Gerichtsbarkeit;Landgericht;Mecklenburg-Vorpommern
+Amtsgericht Greifswald;AG Greifswald;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Amtsgericht Stralsund;AG Stralsund;Ordentliche Gerichtsbarkeit;Amtsgericht;Mecklenburg-Vorpommern
+Oberlandesgericht  Braunschweig;OLG Braunschweig;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Niedersachsen
+Landgericht Braunschweig;LG Braunschweig;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Bad Gandersheim;AG Bad Gandersheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Braunschweig;AG Braunschweig;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Clausthal-Zellerfeld;AG Clausthal-Zellerfeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Goslar;AG Goslar;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Helmstedt;AG Helmstedt;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Salzgitter;AG Salzgitter;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Seesen;AG Seesen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Wolfenbüttel;AG Wolfenbüttel;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Wolfsburg;AG Wolfsburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Göttingen;LG Göttingen;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Duderstadt;AG Duderstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Einbeck;AG Einbeck;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Göttingen;AG Göttingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Hann. Münden;AG Hann. Münden;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Herzberg am Harz;AG Herzberg am Harz;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Northeim;AG Northeim;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Osterode am Harz;AG Osterode am Harz;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Oberlandesgericht Celle;OLG Celle;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Niedersachsen
+Landgericht Bückeburg;LG Bückeburg;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Bückeburg;AG Bückeburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Rinteln;AG Rinteln;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Stadthagen;AG Stadthagen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Hannover;LG Hannover;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Burgwedel;AG Burgwedel;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Hameln;AG Hameln;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Hannover;AG Hannover;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Neustadt am Rübenberge;AG Neustadt am Rübenberge;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Springe;AG Springe;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Wennigsen (Deister);AG Wennigsen (Deister);Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Hildesheim;LG Hildesheim;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Alfeld (Leine);AG Alfeld (Leine);Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Burgdorf;AG Burgdorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Elze;AG Elze;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Gifhorn;AG Gifhorn;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Hildesheim;AG Hildesheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Holzminden;AG Holzminden;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Lehrte;AG Lehrte;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Peine;AG Peine;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Lüneburg;LG Lüneburg;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Celle;AG Celle;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Dannenberg (Elbe);AG Dannenberg (Elbe);Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Lüneburg;AG Lüneburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Soltau;AG Soltau;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Uelzen;AG Uelzen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Winsen;AG Winsen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Stade;LG Stade;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Amtsgericht Bremervörde;AG AG Bremervörde;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Buxtehude;AG Buxtehude;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Cuxhaven;AG Cuxhaven;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Geestland;AG Geestland;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Otterndorf;AG Otterndorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Stade;AG Stade;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Tostedt;AG Tostedt;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Zeven;AG Zeven;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Verden;LG Verden;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Achim;AG Achim;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Diepholz;AG Diepholz;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Nienburg;AG Nienburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Osterholz-Scharmbeck;AG Osterholz-Scharmbeck;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Rotenburg (Wümme);AG Rotenburg (Wümme);Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Stolzenau;AG Stolzenau;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Sulingen;AG Sulingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Syke;AG Syke;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Verden;AG Verden;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Walsrode;AG Walsrode;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Oberlandesgericht Oldenburg;OLG Oldenburg;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Niedersachsen
+Landgericht Aurich;LG Aurich;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Aurich;AG Aurich;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Emden;AG Emden;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Leer;AG Leer;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Norden;AG Norden;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Wittmund;AG Wittmund;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Oldenburg;LG Oldenburg;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Brake;AG Brake;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Cloppenburg;AG Cloppenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Delmenhorst;AG Delmenhorst;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Jever;AG Jever;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Nordenham;AG Nordenham;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Oldenburg;AG Oldenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Varel;AG Varel;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Vechta;AG Vechta;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Westerstede;AG Westerstede;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Wildeshausen;AG Wildeshausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Wilhelmshaven;AG Wilhelmshaven;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Landgericht Osnabrück;LG Osnabrück;Ordentliche Gerichtsbarkeit;Landgericht;Niedersachsen
+Amtsgericht Bad Iburg;AG Bad Iburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Bersenbrück;AG Bersenbrück;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Lingen;AG Lingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Meppen;AG Meppen;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Nordhorn;AG Nordhorn;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Osnabrück;AG Osnabrück;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Amtsgericht Papenburg;AG Papenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Niedersachsen
+Oberlandesgericht Düsseldorf;OLG Düseldorf;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Nordrhein-Westfalen
+Landgericht Duisburg;LG Duisburg;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Dinslaken;AG Dinslaken;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Duisburg;AG Duisburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Duisburg-Hamborn;AG Duisburg-Hamborn;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Duisburg-Ruhrort;AG Duisburg-Ruhrort;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Mülheim an der Ruhr;AG Mülheim an der Ruhr;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Oberhausen;AG Oberhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Wesel;AG Wesel;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Düsseldorf;LG Düsseldorf;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Düsseldorf;AG Düsseldorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Langenfeld (Rheinland);AG Langenfeld (Rheinland);Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Neuss;AG Neuss;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Ratingen;AG Ratingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Kleve;LG Kleve;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Emmerich;AG Emmerich;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Kleve;AG Kleve;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Geldern;AG Geldern;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Moers;AG Moers;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Rheinberg;AG Rheinberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Krefeld;LG Krefeld;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Kempen;AG Kempen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Krefeld;AG Krefeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Nettetal;AG Nettetal;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Mönchengladbach;LG Mönchengladbach;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Erkelenz;AG Erkelenz;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Grevenbroich;AG Grevenbroich;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Mönchengladbach;AG Mönchengladbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Mönchengladbach-Rheydt;AG Mönchengladbach-Rheydt;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Viersen;AG Viersen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Wuppertal;LG Wuppertal;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Mettmann;AG Mettmann;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Remscheid;AG Remscheid;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Solingen;AG Solingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Velbert;AG Velbert;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Wuppertal;AG Wuppertal;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Oberlandesgericht Hamm;OLG Hamm;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Nordrhein-Westfalen
+Landgericht Arnsberg;LG Arnsberg;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Arnsberg;AG Arnsberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Brilon;AG Brilon;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Marsberg;AG Marsberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Medebach;AG Medebach;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Menden (Sauerland);AG Menden (Sauerland);Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Meschede;AG Meschede;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Schmallenberg;AG Schmallenberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Soest;AG Soest;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Warstein;AG Warstein;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Werl;AG Werl;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Bielefeld;LG Bielefeld;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Bielefeld;AG Bielefeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Bünde;AG Bünde;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Gütersloh;AG Gütersloh;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Halle (Westfalen);AG Halle (Westfalen);Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Herford;AG Herford;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lübbecke;AG Lübbecke;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Minden;AG Minden;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Bad Oeynhausen;AG Bad Oeynhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Rahden;AG Rahden;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Rheda-Wiedenbrück;AG Rheda-Wiedenbrück;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Bochum;LG Bochum;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Amtsgericht Bochum;AG AG Bochum;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Herne;AG Herne;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Recklinghausen;AG Recklinghausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Herne-Wanne;AG Herne-Wanne;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Witten;AG Witten;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Detmold;LG Detmold;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Amtsgericht Blomberg;AG AG Blomberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Detmold;AG Detmold;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lemgo;AG Lemgo;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Dortmund;LG Dortmund;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Amtsgericht Castrop-Rauxel;AG AG Castrop-Rauxel;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Dortmund;AG Dortmund;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Hamm;AG Hamm;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Kamen;AG Kamen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lünen;AG Lünen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Unna;AG Unna;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Essen;LG Essen;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Bottrop;AG Bottrop;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Dorsten;AG Dorsten;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Essen;AG Essen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Essen-Borbeck;AG Essen-Borbeck;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Essen-Steele;AG Essen-Steele;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Gelsenkirchen;AG Gelsenkirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Gladbeck;AG Gladbeck;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Hattingen;AG Hattingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Marl;AG Marl;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Hagen;LG Hagen;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Altena;AG Altena;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Hagen;AG Hagen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Iserlohn;AG Iserlohn;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lüdenscheid;AG Lüdenscheid;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Meinerzhagen;AG Meinerzhagen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Plettenberg;AG Plettenberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Schwelm;AG Schwelm;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Schwerte;AG Schwerte;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtagericht Wetter (Ruhr);AG Wetter (Ruhr);Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Münster;LG Münster;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Ahaus;AG Ahaus;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Ahlen;AG Ahlen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Beckum;AG Beckum;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Bocholt;AG Bocholt;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Borken;AG Borken;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Coesfeld;AG Coesfeld;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Dülmen;AG Dülmen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Gronau (Westf.);AG Gronau (Westf.);Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Ibbenbüren;AG Ibbenbüren;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lüdinghausen;AG Lüdinghausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Münster (Westfalen);AG Münster (Westfalen);Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Rheine;AG Rheine;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Steinfurt;AG Steinfurt;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Tecklenburg;AG Tecklenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Warendorf;AG Warendorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Paderborn;LG Paderborn;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Brakel;AG Brakel;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Delbrück;AG Delbrück;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Höxter;AG Höxter;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lippstadt;AG Lippstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+AG Paderborn;AG Paderborn;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Warburg;AG Warburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Siegen;LG Siegen;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Bad Berleburg;AG Bad Berleburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Lennestadt;AG Lennestadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Olpe;AG Olpe;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Siegen;AG Siegen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Oberlandesgericht Köln;OLG Köln;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Nordrhein-Westfalen
+Landgericht Aachen;LG Aachen;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Aachen;AG Aachen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Düren;AG Düren;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Eschweiler;AG Eschweiler;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Geilenkirchen;AG Geilenkirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Heinsberg;AG Heinsberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Jülich;AG Jülich;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Monschau;AG Monschau;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Schleiden;AG Schleiden;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Bonn;LG Bonn;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Bonn;AG Bonn;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Euskirchen;AG Euskirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Königswinter;AG Königswinter;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Rheinbach;AG Rheinbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Siegburg;AG Siegburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Waldbröl;AG Waldbröl;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Landgericht Köln;LG Köln;Ordentliche Gerichtsbarkeit;Landgericht;Nordrhein-Westfalen
+Amtsgericht Bergheim;AG Bergheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Bergisch Gladbach;AG Bergisch Gladbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Brühl;AG Brühl;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Gummersbach;AG Gummersbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Kerpen;AG Kerpen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Köln;AG Köln;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Leverkusen;AG Leverkusen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Wermelskirchen;AG Wermelskirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Amtsgericht Wipperfürth;AG Wipperfürth;Ordentliche Gerichtsbarkeit;Amtsgericht;Nordrhein-Westfalen
+Pfälzisches Oberlandesgericht;OLG Zweibrücken;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Rheinland-Pfalz
+Landgericht Frankenthal (Pfalz);LG Frankenthal (Pfalz);Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Bad Dürkheim;AG Bad Dürkheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Frankenthal (Pfalz);AG Frankenthal (Pfalz);Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Grünstadt;AG Grünstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Ludwigshafen;AG Ludwigshafen;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Neustadt an der Weinstraße;AG Neustadt an der Weinstraße;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Speyer;AG Speyer;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Landgericht Kaiserslautern;LG Kaiserslautern;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Kaiserslautern;AG Kaiserslautern;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Kusel;AG Kusel;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Rockenhausen;AG Rockenhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Landgericht Landau i. d. Pfalz;LG Landau i. d. Pfalz;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Germersheim;AG Germersheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Kandel;AG Kandel;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Landau in der Pfalz;AG Landau in der Pfalz;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Landgericht Zweibrücken;LG Zweibrücken;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Landstuhl;AG Landstuhl;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Pirmasens;AG Pirmasens;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Zweibrücken;AG Zweibrücken;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Oberlandesgericht Koblenz;OLG Koblenz;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Rheinland-Pfalz
+Landgericht Bad Kreuznach;LG Bad Kreuznach;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Bad Kreuznach;AG Bad Kreuznach;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Bad Sobernheim;AG Bad Sobernheim;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Idar-Oberstein;AG Idar-Oberstein;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Simmern/Hunsrück;AG Simmern/Hunsrück;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Landgericht Koblenz;LG Koblenz;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Altenkirchen;AG Altenkirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Andernach;AG Andernach;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Bad Neuenahr-Ahrweiler;AG Bad Neuenahr-Ahrweiler;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Betzdorf;AG Betzdorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Cochem;AG Cochem;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Diez;AG Diez;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Koblenz;AG Koblenz;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Lahnstein;AG Lahnstein;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Linz am Rhein;AG Linz am Rhein;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Mayen;AG Mayen;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Montabaur;AG Montabaur;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Neuwied;AG Neuwied;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Sankt Goar;AG Sankt Goar;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Sinzig;AG Sinzig;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Westerburg;AG Westerburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Landgericht Mainz;LG Mainz;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Alzey;AG Alzey;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Bingen am Rhein;AG Bingen am Rhein;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Mainz;AG Mainz;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Worms;AG Worms;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Landgericht Trier;LG Trier;Ordentliche Gerichtsbarkeit;Landgericht;Rheinland-Pfalz
+Amtsgericht Bernkastel-Kues;AG Bernkastel-Kues;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Bitburg;AG Bitburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Daun;AG Daun;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Hermeskeil;AG Hermeskeil;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Prüm;AG Prüm;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Saarburg;AG Saarburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Trier;AG Trier;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Amtsgericht Wittlich;AG Wittlich;Ordentliche Gerichtsbarkeit;Amtsgericht;Rheinland-Pfalz
+Saarländisches Oberlandesgericht;OLG Saarbrücken;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Saarland
+Landgericht Saarbrücken;LG Saarbrücken;Ordentliche Gerichtsbarkeit;Landgericht;Saarland
+Amtsgericht Homburg;AG Homburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Lebach;AG Lebach;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Merzig;AG Merzig;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Neunkirchen;AG Neunkirchen;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Ottweiler;AG Ottweiler;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Saarbrücken;AG Saarbrücken;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Saarlouis;AG Saarlouis;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht St. Ingbert;AG St. Ingbert;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht St. Wendel;AG St. Wendel;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Amtsgericht Völklingen;AG Völklingen;Ordentliche Gerichtsbarkeit;Amtsgericht;Saarland
+Oberlandesgericht Dresden;OLG Dresden;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Sachsen
+Landgericht Chemnitz;LG Chemnitz;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen
+Amtsgericht Aue;AG Aue;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Chemnitz;AG Chemnitz;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Döbeln;AG Döbeln;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Freiberg;AG Freiberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Marienberg;AG Marienberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Landgericht Dresden;LG Dresden;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen
+Amtsgericht Dippoldiswalde;AG Dippoldiswalde;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Dresden;AG Dresden;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Meißen;AG Meißen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Pirna;AG Pirna;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Riesa;AG Riesa;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Landgericht Görlitz;LG Görlitz;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen
+Amtsgericht Bautzen;AG Bautzen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Görlitz;AG Görlitz;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Hoyerswerda;AG Hoyerswerda;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Kamenz;AG Kamenz;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Weißwasser;AG Weißwasser;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Zittau;AG Zittau;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Landgericht Leipzig;LG Leipzig;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen
+Amtsgericht Borna;AG Borna;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Eilenburg;AG Eilenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Grimma;AG Grimma;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Leipzig;AG Leipzig;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Torgau;AG Torgau;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Landgericht Zwickau;LG Zwickau;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen
+Amtsgericht Auerbach;AG Auerbach;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Hohenstein-Ernstthal;AG Hohenstein-Ernstthal;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Plauen;AG Plauen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Amtsgericht Zwickau;AG Zwickau;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen
+Oberlandesgericht Naumburg;OLG Naumburg;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Sachsen-Anhalt
+Landgericht Dessau-Roßlau;LG Dessau-Roßlau;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Bitterfeld-Wolfen;AG Bitterfeld-Wolfen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Dessau-Roßlau;AG Dessau-Roßlau;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Köthen;AG Köthen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Wittenberg;AG Wittenberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Zerbst;AG Zerbst;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Landgericht Halle;LG Halle;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Eisleben;AG Eisleben;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Halle (Saale);AG Halle (Saale);Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Merseburg;AG Merseburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Naumburg;AG Naumburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Sangerhausen;AG Sangerhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Weißenfels;AG Weißenfels;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Zeitz;AG Zeitz;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Landgericht Magdeburg;LG Magdeburg;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Aschersleben;AG Aschersleben;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Bernburg;AG Bernburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Halberstadt;AG Halberstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Haldensleben;AG Haldensleben;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Magdeburg;AG Magdeburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Oschersleben;AG Oschersleben;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Quedlinburg;AG Quedlinburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Schönebeck;AG Schönebeck;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Wernigerode;AG Wernigerode;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Landgericht Stendal;LG Stendal;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Burg;AG Burg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Gardelegen;AG Gardelegen;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Salzwedel;AG Salzwedel;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Stendal;AG Stendal;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Schleswig-Holsteinisches Oberlandesgericht;OLG Schleswig;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Sachsen-Anhalt
+Landgericht Flensburg;LG Flensburg;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Flensburg;AG Flensburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Husum;AG Husum;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Niebüll;AG Niebüll;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Schleswig;AG Schleswig;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Landgericht Itzehoe;LG Itzehoe;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Elmshorn;AG Elmshorn;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Itzehoe;AG Itzehoe;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Meldorf;AG Meldorf;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Pinneberg;AG Pinneberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Landgericht Kiel;LG Kiel;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Bad Segeberg;AG Bad Segeberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Eckernförde;AG Eckernförde;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Kiel;AG Kiel;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Neumünster;AG Neumünster;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Norderstedt;AG Norderstedt;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Plön;AG Plön;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Rendsburg;AG Rendsburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Landgericht Lübeck;LG Lübeck;Ordentliche Gerichtsbarkeit;Landgericht;Sachsen-Anhalt
+Amtsgericht Ahrensburg;AG Ahrensburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Eutin;AG Eutin;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Lübeck;AG Lübeck;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Oldenburg in Holstein;AG Oldenburg in Holstein;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Ratzeburg;AG Ratzeburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Reinbek;AG Reinbek;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Amtsgericht Schwarzenbek;AG Schwarzenbek;Ordentliche Gerichtsbarkeit;Amtsgericht;Sachsen-Anhalt
+Thüringer Oberlandesgericht;OLG Jena;Ordentliche Gerichtsbarkeit;Oberlandesgericht;Thüringen
+Landgericht Erfurt;LG Erfurt;Ordentliche Gerichtsbarkeit;Landgericht;Thüringen
+Amtsgericht Apolda;AG Apolda;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Arnstadt;AG Arnstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Erfurt;AG Erfurt;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Gotha;AG Gotha;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Sömmerda;AG Sömmerda;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Weimar;AG Weimar;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Landgericht Gera;LG Gera;Ordentliche Gerichtsbarkeit;Landgericht;Thüringen
+Amtsgericht Altenburg;AG Altenburg;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Gera;AG Gera;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Greiz;AG Greiz;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Jena;AG Jena;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Pößneck;AG Pößneck;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Rudolstadt;AG Rudolstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Stadtroda;AG Stadtroda;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Landgericht Meiningen;LG Meiningen;Ordentliche Gerichtsbarkeit;Landgericht;Thüringen
+Amtsgericht Bad Salzungen;AG Bad Salzungen;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Eisenach;AG Eisenach;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Hildburghausen;AG Hildburghausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Ilmenau;AG Ilmenau;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Meiningen;AG Meiningen;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Sonneberg;AG Sonneberg;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Suhl;AG Suhl;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Landgericht Mühlhausen;LG Mühlhausen;Ordentliche Gerichtsbarkeit;Landgericht;Thüringen
+Amtsgericht Heilbad Heiligenstadt;AG Heilbad Heiligenstadt;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Mühlhausen/Thüringen;AG Mühlhausen/Thüringen;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Nordhausen;AG Nordhausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Amtsgericht Sondershausen;AG Sondershausen;Ordentliche Gerichtsbarkeit;Amtsgericht;Thüringen
+Bundesverwaltungsgericht;BVerwG;Verwaltungsgerichtsbarkeit;Oberster Gerichtshof des Bundes;Bund
+Verwaltungsgerichtshof Baden-Württemberg;VerwGH Mannheim;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Baden-Württemberg
+Verwaltungsgericht Freiburg;VG Freiburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Baden-Württemberg
+Verwaltungsgericht Karlsruhe;VG Karlsruhe;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Baden-Württemberg
+Verwaltungsgericht Sigmaringen;VG Sigmaringen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Baden-Württemberg
+Verwaltungsgericht Stuttgart;VG Stuttgart;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Baden-Württemberg
+Bayerischer Verwaltungsgerichtshof;VerwGH München;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Bayern
+Verwaltungsgericht Ansbach;VG Ansbach;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bayern
+Verwaltungsgericht Augsburg;VG Augsburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bayern
+Verwaltungsgericht Bayreuth;VG Bayreuth;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bayern
+Verwaltungsgericht München;VG München;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bayern
+Verwaltungsgericht Regensburg;VG Regensburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bayern
+Verwaltungsgericht Würzburg;VG Würzburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bayern
+Oberverwaltungsgericht Berlin-Brandenburg;OVG Berlin-Brandenburg;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Berlin-Brandenburg
+Verwaltungsgericht Berlin;VG Berlin;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Berlin-Brandenburg
+Verwaltungsgericht Cottbus;VG Cottbus;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Berlin-Brandenburg
+Verwaltungsgericht Frankfurt (Oder);VG Frankfurt (Oder);Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Berlin-Brandenburg
+Verwaltungsgericht Potsdam;VG Potsdam;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Berlin-Brandenburg
+Oberverwaltungsgericht der Freien Hansestadt Bremen;OVG Bremen;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Bremen
+Verwaltungsgericht der Freien Hansestadt Bremen;VG Bremen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Bremen
+Hamburgisches Oberverwaltungsgericht;Hamburgisches OVG;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Hamburg
+Verwaltungsgericht Hamburg;VG Hamburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Hamburg
+Hessischer Verwaltungsgerichtshof;Hessischer VerwGH;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Hessen
+Verwaltungsgericht Darmstadt;VG Darmstadt;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Hessen
+Verwaltungsgericht Frankfurt am Main;VG Frankfurt am Main;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Hessen
+Verwaltungsgericht Gießen;VG Gießen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Hessen
+Verwaltungsgericht Kassel;VG Kassel;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Hessen
+Verwaltungsgericht Wiesbaden;VG Wiesbaden;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Hessen
+Oberverwaltungsgericht Mecklenburg-Vorpommern;OVG Greifswald;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Mecklenburg-Vorpommern
+Verwaltungsgericht Schwerin;VG Schwerin;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Mecklenburg-Vorpommern
+Verwaltungsgericht Greifswald;VG Greifswald;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Mecklenburg-Vorpommern
+Niedersächsisches Oberverwaltungsgericht;OVG Lüneburg;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Niedersachsen
+Verwaltungsgericht Braunschweig;VG Braunschweig;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Verwaltungsgericht Göttingen;VG Göttingen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Verwaltungsgericht Hannover;VG Hannover;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Verwaltungsgericht Lüneburg;VG Lüneburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Verwaltungsgericht Oldenburg;VG Oldenburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Verwaltungsgericht Osnabrück;VG Osnabrück;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Verwaltungsgericht Stade;VG Stade;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Niedersachsen
+Oberverwaltungsgericht für das Land Nordrhein-Westfalen;OVG Münster;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Aachen;VG Aachen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Arnsberg;VG Arnsberg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Düsseldorf;VG Düsseldorf;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Gelsenkirchen;VG Gelsenkirchen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Köln;VG Köln;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Minden;VG Minden;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Verwaltungsgericht Münster;VG Münster;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Nordrhein-Westfalen
+Oberverwaltungsgericht Rheinland-Pfalz;OVG Koblenz;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Rheinland-Pfalz
+Verwaltungsgericht Koblenz;VG Koblenz;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Rheinland-Pfalz
+Verwaltungsgericht Mainz;VG Mainz;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Rheinland-Pfalz
+Verwaltungsgericht Neustadt an der Weinstraße;VG Neustadt;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Rheinland-Pfalz
+Verwaltungsgericht Trier;VG Trier;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Rheinland-Pfalz
+Oberverwaltungsgericht des Saarlandes;OVG Saarlouis;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Saarland
+Verwaltungsgericht des Saarlandes;VG Saarlouis;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Saarland
+Sächsisches Oberverwaltungsgericht;OVG Bautzen;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Sachsen
+Verwaltungsgericht Chemnitz;VG Chemnitz;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Sachsen
+Verwaltungsgericht Dresden;VG Dresden;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Sachsen
+Verwaltungsgericht Leipzig;VG Leipzig;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Sachsen-Anhalt
+Oberverwaltungsgericht des Landes Sachsen-Anhalt;OVG Magdeburg;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Sachsen-Anhalt
+Verwaltungsgerichte Halle;VG Halle;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Sachsen-Anhalt
+Verwaltungsgerichte Magdeburg;VG Magdeburg;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Sachsen-Anhalt
+Schleswig-Holsteinisches Oberverwaltungsgericht;OVG Schleswig;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Schleswig-Holstein
+Schleswig-Holsteinisches Verwaltungsgericht;VG Schleswig;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Schleswig-Holstein
+Thüringer Oberverwaltungsgericht;OVG Weimar;Verwaltungsgerichtsbarkeit;Oberverwaltungsgericht;Thüringen
+Verwaltungsgerichte Gera;VG Gera;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Thüringen
+Verwaltungsgerichte Meiningen;VG Meiningen;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Thüringen
+Verwaltungsgerichte Weimar;VG Weimar;Verwaltungsgerichtsbarkeit;Verwaltungsgericht;Thüringen
