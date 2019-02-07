@@ -987,13 +987,6 @@
     "Context": "Baden-Württemberg"
   },
   {
-    "Name": "",
-    "Abbrevation": "",
-    "Type": "Ordentliche Gerichtsbarkeit",
-    "Level": "Amtsgericht",
-    "Context": "Baden-Württemberg"
-  },
-  {
     "Name": "Landgericht Ulm",
     "Abbrevation": "LG Ulm",
     "Type": "Ordentliche Gerichtsbarkeit",
@@ -1913,13 +1906,6 @@
   {
     "Name": "Amtsgericht Strausberg",
     "Abbrevation": "AG Strausberg",
-    "Type": "Ordentliche Gerichtsbarkeit",
-    "Level": "Amtsgericht",
-    "Context": "Brandenburg"
-  },
-  {
-    "Name": "",
-    "Abbrevation": "",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Brandenburg"
