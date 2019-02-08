@@ -1387,7 +1387,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Günzburg",
-    "Abbrevation": "AG AG Günzburg",
+    "Abbrevation": "AG Günzburg",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Bayern"
@@ -1415,7 +1415,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht München",
-    "Abbrevation": "AG AG München",
+    "Abbrevation": "AG München",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Bayern"
@@ -1429,7 +1429,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Dachau",
-    "Abbrevation": "AG AG Dachau",
+    "Abbrevation": "AG Dachau",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Bayern"
@@ -1863,7 +1863,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Bad Freienwalde (Oder)",
-    "Abbrevation": "AG AG Bad Freienwalde (Oder)",
+    "Abbrevation": "AG Bad Freienwalde (Oder)",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Brandenburg"
@@ -1919,7 +1919,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Neuruppin",
-    "Abbrevation": "AG AG Neuruppin",
+    "Abbrevation": "AG Neuruppin",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Brandenburg"
@@ -2031,7 +2031,7 @@
   },
   {
     "Name": "Amtsgericht Bremen-Blumenthal",
-    "Abbrevation": "AB Bremen Blumenthal",
+    "Abbrevation": "AG Bremen Blumenthal",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Bremen"
@@ -2325,7 +2325,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Eschwege",
-    "Abbrevation": "AG AG Eschwege",
+    "Abbrevation": "AG Eschwege",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Hessen"
@@ -2913,7 +2913,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Bremervörde",
-    "Abbrevation": "AG AG Bremervörde",
+    "Abbrevation": "AG Bremervörde",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Niedersachsen"
@@ -3655,7 +3655,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Bochum",
-    "Abbrevation": "AG AG Bochum",
+    "Abbrevation": "AG Bochum",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Nordrhein-Westfalen"
@@ -3697,7 +3697,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Blomberg",
-    "Abbrevation": "AG AG Blomberg",
+    "Abbrevation": "AG Blomberg",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Nordrhein-Westfalen"
@@ -3725,7 +3725,7 @@
   },
   {
     "Name": "Amtsgericht Amtsgericht Castrop-Rauxel",
-    "Abbrevation": "AG AG Castrop-Rauxel",
+    "Abbrevation": "AG Castrop-Rauxel",
     "Type": "Ordentliche Gerichtsbarkeit",
     "Level": "Amtsgericht",
     "Context": "Nordrhein-Westfalen"
